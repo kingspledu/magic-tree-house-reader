@@ -5,12 +5,15 @@
     "insert_after_paragraph_id": "b02-ch01-p005",
     "description": "Before dawn in his bedroom Jack in light blue pajamas and glasses studies his notebook; Annie in yellow stands at his doorway.",
     "web_asset_path": "assets/b02-ch01-sc01.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch01",
     "quadrant": 1,
     "source_paragraph_ids": [
       "b02-ch01-p005"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "c78fd29391326b95101bd2086f52abf49f8b798e615420225a31c29b317e698c"
   },
   {
     "id": "b02-ch01-sc02",
@@ -18,12 +21,15 @@
     "insert_after_paragraph_id": "b02-ch01-p032",
     "description": "Now dressed in blue sweatshirt and jeans with green backpack, Jack meets Annie with her belt-clipped flashlight at the back door.",
     "web_asset_path": "assets/b02-ch01-sc02.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch01",
     "quadrant": 2,
     "source_paragraph_ids": [
       "b02-ch01-p032"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "c78fd29391326b95101bd2086f52abf49f8b798e615420225a31c29b317e698c"
   },
   {
     "id": "b02-ch01-sc03",
@@ -31,12 +37,15 @@
     "insert_after_paragraph_id": "b02-ch01-p046",
     "description": "The siblings walk through dark predawn woods by Annie's flashlight.",
     "web_asset_path": "assets/b02-ch01-sc03.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch01",
     "quadrant": 3,
     "source_paragraph_ids": [
       "b02-ch01-p046"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "c78fd29391326b95101bd2086f52abf49f8b798e615420225a31c29b317e698c"
   },
   {
     "id": "b02-ch01-sc04",
@@ -44,12 +53,15 @@
     "insert_after_paragraph_id": "b02-ch01-p060",
     "description": "Annie climbs the tall tree house rope ladder by flashlight while Jack waits below.",
     "web_asset_path": "assets/b02-ch01-sc04.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch01",
     "quadrant": 4,
     "source_paragraph_ids": [
       "b02-ch01-p060"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "c78fd29391326b95101bd2086f52abf49f8b798e615420225a31c29b317e698c"
   },
   {
     "id": "b02-ch02-sc01",
