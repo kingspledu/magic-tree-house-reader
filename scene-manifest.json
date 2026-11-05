@@ -581,12 +581,15 @@
     "insert_after_paragraph_id": "b02-ch10-p002",
     "description": "The children see familiar Frog Creek at dawn from the tree house; their clothes are still damp.",
     "web_asset_path": "assets/b02-ch10-sc01.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch10",
     "quadrant": 1,
     "source_paragraph_ids": [
       "b02-ch10-p002"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "6cb9e3886c7a182ee0c59a64a6ab29703bf48b79d96fb903061fbfc2fe33306c"
   },
   {
     "id": "b02-ch10-sc02",
@@ -594,12 +597,15 @@
     "insert_after_paragraph_id": "b02-ch10-p014",
     "description": "Jack and Annie sneak through their back door and up the stairs in the early morning.",
     "web_asset_path": "assets/b02-ch10-sc02.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch10",
     "quadrant": 2,
     "source_paragraph_ids": [
       "b02-ch10-p014"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "6cb9e3886c7a182ee0c59a64a6ab29703bf48b79d96fb903061fbfc2fe33306c"
   },
   {
     "id": "b02-ch10-sc03",
@@ -607,12 +613,15 @@
     "insert_after_paragraph_id": "b02-ch10-p026",
     "description": "Now in dry light blue pajamas and glasses, Jack compares a blue leather bookmark with a gold medallion by his bedroom lamp; no readable lettering.",
     "web_asset_path": "assets/b02-ch10-sc03.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch10",
     "quadrant": 3,
     "source_paragraph_ids": [
       "b02-ch10-p026"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "6cb9e3886c7a182ee0c59a64a6ab29703bf48b79d96fb903061fbfc2fe33306c"
   },
   {
     "id": "b02-ch10-sc04",
@@ -620,11 +629,14 @@
     "insert_after_paragraph_id": "b02-ch10-p034",
     "description": "Jack falls asleep on his bed with notebook and pencil nearby, wearing light blue pajamas; soft peaceful dawn light.",
     "web_asset_path": "assets/b02-ch10-sc04.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch10",
     "quadrant": 4,
     "source_paragraph_ids": [
       "b02-ch10-p034"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "6cb9e3886c7a182ee0c59a64a6ab29703bf48b79d96fb903061fbfc2fe33306c"
   }
 ]
