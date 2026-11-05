@@ -325,12 +325,15 @@
     "insert_after_paragraph_id": "b02-ch06-p001",
     "description": "Three burly guards confront the siblings: narrowed eyes with brown tunic and torch, ruddy round face with red tunic, long dark mustache with green tunic.",
     "web_asset_path": "assets/b02-ch06-sc01.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch06",
     "quadrant": 1,
     "source_paragraph_ids": [
       "b02-ch06-p001"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "c092bbae39dba5e3882700d9f0b3f099b3c467cf4dc1a3f7ac45a02f0ccbf9be"
   },
   {
     "id": "b02-ch06-sc02",
@@ -338,12 +341,15 @@
     "insert_after_paragraph_id": "b02-ch06-p021",
     "description": "The same three guards push the children into a damp stone dungeon with chains on walls and puddles; Annie holds Jack's green backpack.",
     "web_asset_path": "assets/b02-ch06-sc02.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch06",
     "quadrant": 2,
     "source_paragraph_ids": [
       "b02-ch06-p021"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "c092bbae39dba5e3882700d9f0b3f099b3c467cf4dc1a3f7ac45a02f0ccbf9be"
   },
   {
     "id": "b02-ch06-sc03",
@@ -351,12 +357,15 @@
     "insert_after_paragraph_id": "b02-ch06-p031",
     "description": "Annie raises the flashlight like a magic wand; three frightened guards recoil and the torch falls into a puddle.",
     "web_asset_path": "assets/b02-ch06-sc03.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch06",
     "quadrant": 3,
     "source_paragraph_ids": [
       "b02-ch06-p031"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "c092bbae39dba5e3882700d9f0b3f099b3c467cf4dc1a3f7ac45a02f0ccbf9be"
   },
   {
     "id": "b02-ch06-sc04",
@@ -364,12 +373,15 @@
     "insert_after_paragraph_id": "b02-ch06-p042",
     "description": "The three guards cower on the wet dungeon floor as Annie and Jack escape through the open door with the backpack.",
     "web_asset_path": "assets/b02-ch06-sc04.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch06",
     "quadrant": 4,
     "source_paragraph_ids": [
       "b02-ch06-p042"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "c092bbae39dba5e3882700d9f0b3f099b3c467cf4dc1a3f7ac45a02f0ccbf9be"
   },
   {
     "id": "b02-ch07-sc01",
