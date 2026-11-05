@@ -133,12 +133,15 @@
     "insert_after_paragraph_id": "b02-ch03-p010",
     "description": "At the tree house base Jack studies the castle book and writes notes by flashlight while Annie watches a distant knight on a black horse.",
     "web_asset_path": "assets/b02-ch03-sc01.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch03",
     "quadrant": 1,
     "source_paragraph_ids": [
       "b02-ch03-p010"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "e1a86ba2a3543f1d6027c28cde3d60b7f0fa710a7c278bde1bc6d175962a0403"
   },
   {
     "id": "b02-ch03-sc02",
@@ -146,12 +149,15 @@
     "insert_after_paragraph_id": "b02-ch03-p013",
     "description": "A silver-armored knight with lowered visor rides his black horse across a wooden drawbridge over the castle moat.",
     "web_asset_path": "assets/b02-ch03-sc02.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch03",
     "quadrant": 2,
     "source_paragraph_ids": [
       "b02-ch03-p013"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "e1a86ba2a3543f1d6027c28cde3d60b7f0fa710a7c278bde1bc6d175962a0403"
   },
   {
     "id": "b02-ch03-sc03",
@@ -159,12 +165,15 @@
     "insert_after_paragraph_id": "b02-ch03-p019",
     "description": "The children explore the misty castle grounds with a windmill and small hawk house visible.",
     "web_asset_path": "assets/b02-ch03-sc03.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch03",
     "quadrant": 3,
     "source_paragraph_ids": [
       "b02-ch03-p019"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "e1a86ba2a3543f1d6027c28cde3d60b7f0fa710a7c278bde1bc6d175962a0403"
   },
   {
     "id": "b02-ch03-sc04",
@@ -172,12 +181,15 @@
     "insert_after_paragraph_id": "b02-ch03-p044",
     "description": "Annie dashes across the drawbridge toward the castle gate while Jack looks up from his book.",
     "web_asset_path": "assets/b02-ch03-sc04.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch03",
     "quadrant": 4,
     "source_paragraph_ids": [
       "b02-ch03-p044"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "e1a86ba2a3543f1d6027c28cde3d60b7f0fa710a7c278bde1bc6d175962a0403"
   },
   {
     "id": "b02-ch04-sc01",
