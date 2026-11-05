@@ -34,5 +34,17 @@
     "prompt": "Use case illustration-story. ONE square image, EXACT 2x2 grid of four equal square illustrations, narrow white gutters on exact 50% center lines. No text, letters, speech bubbles, captions, watermarks. Modern KOREAN WEBTOON style, smooth rounded polished linework, soft pastel digital gradients, expressive large eyes and small rounded mouths. Use reference for exact faces, brown hair, child proportions and clothing. Jack 8.5 short tousled brown hair round glasses muted BLUE LONG SLEEVE SWEATSHIRT, BLUE JEANS, green backpack; slightly taller than Annie age 7 shoulder-length brown hair, yellow shirt coral trousers with belt and compact flashlight. Medieval stone castle and misty night, not modern school. Silent mysterious knight: steel silver full plate armor, closed visor hiding face, riding black horse with dark saddle and reins. Follow chronology. TOP LEFT: Jack hurries across the wooden drawbridge while a medieval guard watches from the wall. TOP RIGHT: Annie waves from behind a stone well in the torchlit castle courtyard; Jack approaches. BOTTOM LEFT: Both children peek through a doorway into the Great Hall feast: long tables, fireplace, medieval diners, musicians and serving boys. BOTTOM RIGHT: An angry medieval servant carrying a tray of pies catches the children peeking; they start fleeing down the dim hallway.",
     "generated_at": "2026-11-05T11:03:13.338649+00:00",
     "visual_review": "reviewed against character locks and source events"
+  },
+  "b02-ch05": {
+    "grid": "2x2",
+    "scene_order": [
+      "top-left",
+      "top-right",
+      "bottom-left",
+      "bottom-right"
+    ],
+    "prompt": "Use case illustration-story. ONE square image, EXACT 2x2 grid of four equal square illustrations, narrow white gutters on exact 50% center lines. No text, letters, speech bubbles, captions, watermarks. Modern KOREAN WEBTOON style, smooth rounded polished linework, soft pastel digital gradients, expressive large eyes and small rounded mouths. Use reference for exact faces, brown hair, child proportions and clothing. Jack 8.5 short tousled brown hair round glasses muted BLUE LONG SLEEVE SWEATSHIRT, BLUE JEANS, green backpack; slightly taller than Annie age 7 shoulder-length brown hair, yellow shirt coral trousers with belt and compact flashlight. Medieval stone castle and misty night, not modern school. Silent mysterious knight: steel silver full plate armor, closed visor hiding face, riding black horse with dark saddle and reins. Follow chronology. Guards if shown: exactly three burly men: narrowed eyes brown tunic, ruddy round face red tunic, long dark mustache green tunic. Jack wears oversized helmet ONLY in bottom left; removed bottom right. TOP LEFT: The flashlight reveals empty headless suits of armor in a cold castle armory; Jack and Annie look relieved. TOP RIGHT: Jack and Annie examine stored helmets, shields and medieval weapons by flashlight. BOTTOM LEFT: Jack bends under an oversized heavy metal helmet with visor down; Annie watches anxiously with the flashlight. BOTTOM RIGHT: Three distinct burly guards surround Jack and Annie after removing Jack's helmet, lit by a fiery torch.",
+    "generated_at": "2026-11-05T11:04:21.925682+00:00",
+    "visual_review": "reviewed against character locks and source events"
   }
 }

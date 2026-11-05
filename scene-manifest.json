@@ -261,12 +261,15 @@
     "insert_after_paragraph_id": "b02-ch05-p011",
     "description": "The flashlight reveals empty headless suits of armor in a cold castle armory; Jack and Annie look relieved.",
     "web_asset_path": "assets/b02-ch05-sc01.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch05",
     "quadrant": 1,
     "source_paragraph_ids": [
       "b02-ch05-p011"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "59db3105fa79cd9a72019dd8ec9b03c5af6b79125ddb11c14b0c6442d0c191cb"
   },
   {
     "id": "b02-ch05-sc02",
@@ -274,12 +277,15 @@
     "insert_after_paragraph_id": "b02-ch05-p018",
     "description": "Jack and Annie examine stored helmets, shields and medieval weapons by flashlight.",
     "web_asset_path": "assets/b02-ch05-sc02.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch05",
     "quadrant": 2,
     "source_paragraph_ids": [
       "b02-ch05-p018"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "59db3105fa79cd9a72019dd8ec9b03c5af6b79125ddb11c14b0c6442d0c191cb"
   },
   {
     "id": "b02-ch05-sc03",
@@ -287,12 +293,15 @@
     "insert_after_paragraph_id": "b02-ch05-p025",
     "description": "Jack bends under an oversized heavy metal helmet with visor down; Annie watches anxiously with the flashlight.",
     "web_asset_path": "assets/b02-ch05-sc03.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch05",
     "quadrant": 3,
     "source_paragraph_ids": [
       "b02-ch05-p025"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "59db3105fa79cd9a72019dd8ec9b03c5af6b79125ddb11c14b0c6442d0c191cb"
   },
   {
     "id": "b02-ch05-sc04",
@@ -300,12 +309,15 @@
     "insert_after_paragraph_id": "b02-ch05-p036",
     "description": "Three distinct burly guards surround Jack and Annie after removing Jack's helmet, lit by a fiery torch.",
     "web_asset_path": "assets/b02-ch05-sc04.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch05",
     "quadrant": 4,
     "source_paragraph_ids": [
       "b02-ch05-p036"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "59db3105fa79cd9a72019dd8ec9b03c5af6b79125ddb11c14b0c6442d0c191cb"
   },
   {
     "id": "b02-ch06-sc01",
