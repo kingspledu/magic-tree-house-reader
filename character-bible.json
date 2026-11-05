@@ -1,0 +1,122 @@
+{
+  "book_id": "mth-basic-002",
+  "title": "The Knight at Dawn",
+  "art_style": "Modern Korean Webtoon Slice-of-Life Style: polished rounded linework, soft pastel digital gradients, large expressive eyes, small rounded mouths, gentle blush. Source period and setting preserved.",
+  "models": [
+    {
+      "character_id": "mth-basic-002:jack",
+      "name": "Jack",
+      "source_facts": [
+        "third-grade pupil",
+        "glasses",
+        "jeans, warm sweatshirt and sneakers",
+        "backpack, notebook and pencil",
+        "wet clothing after the moat; dry soft pajamas at home"
+      ],
+      "adaptation_lock": "Stable short brown hair, round glasses, slightly taller than Annie. Muted blue sweatshirt, blue jeans, neutral sneakers and green backpack are color choices. Dry pajamas are light blue. Preserve one face across all states.",
+      "state_tags": [
+        "jack-early-morning",
+        "jack-moat-wet",
+        "jack-home-pajamas"
+      ]
+    },
+    {
+      "character_id": "mth-basic-002:annie",
+      "name": "Annie",
+      "source_facts": [
+        "seven years old",
+        "Jack's younger sister",
+        "flashlight clipped to her belt",
+        "wet after jumping into the moat"
+      ],
+      "adaptation_lock": "Stable shoulder-length brown hair, slightly shorter than Jack, warm yellow top and coral trousers with a belt are production choices. Preserve one face across dry and wet states.",
+      "state_tags": [
+        "annie-early-morning",
+        "annie-moat-wet"
+      ]
+    },
+    {
+      "character_id": "mth-basic-002:knight",
+      "name": "The knight",
+      "source_facts": [
+        "shining armor",
+        "visor hides face",
+        "gloved hand",
+        "rides a black horse",
+        "silently helps both children"
+      ],
+      "adaptation_lock": "Face remains hidden; steel-gray armor and neutral plume styling are production choices. Never give the knight invented dialogue or identify the mysterious person.",
+      "state_tags": [
+        "knight-armored"
+      ]
+    },
+    {
+      "character_id": "mth-basic-002:black-horse",
+      "name": "The knight's black horse",
+      "source_facts": [
+        "black horse",
+        "carries knight, Annie and Jack",
+        "saddle and reins"
+      ],
+      "adaptation_lock": "Consistent black horse anatomy, dark tack, no human facial features; knight sits behind Jack, who sits behind Annie during their ride.",
+      "state_tags": [
+        "black-horse-baseline"
+      ]
+    },
+    {
+      "character_id": "mth-basic-002:squinty",
+      "name": "Squinty-eyes",
+      "source_facts": [
+        "huge male guard",
+        "very squinty eyes",
+        "holds torch; drops it into dungeon puddle"
+      ],
+      "adaptation_lock": "Distinct broad face with narrowed eyes and brown guard tunic; separate model from the other guards.",
+      "state_tags": [
+        "squinty-guard"
+      ]
+    },
+    {
+      "character_id": "mth-basic-002:red",
+      "name": "Red-face",
+      "source_facts": [
+        "huge male guard",
+        "very red face",
+        "holds Jack"
+      ],
+      "adaptation_lock": "Distinct round ruddy face and muted red guard tunic; preserve source distinction.",
+      "state_tags": [
+        "red-guard"
+      ]
+    },
+    {
+      "character_id": "mth-basic-002:mustache",
+      "name": "Mustache",
+      "source_facts": [
+        "huge male guard",
+        "very long mustache",
+        "holds Annie"
+      ],
+      "adaptation_lock": "Long dark mustache and muted green guard tunic; separate model.",
+      "state_tags": [
+        "mustache-guard"
+      ]
+    }
+  ],
+  "continuity_rules": [
+    "Bedroom -> early-morning woods -> tree house -> foggy castle; castle is night while home is near dawn.",
+    "Flashlight possession, backpack, castle book and blue bookmark follow the source events.",
+    "Moat crocodiles are feared or suggested, never confirmed visible animals.",
+    "Armor in the armory is empty; the helmet briefly worn by Jack is not the mysterious knight.",
+    "Henry in this book is the neighbor's dog; do not substitute the Book 1 Pteranodon.",
+    "Keep wet clothes and powerless flashlight after the moat; Jack changes into pajamas only at home.",
+    "Handwritten \"the sam…\" remains incomplete; do not invent missing text."
+  ],
+  "source_policy": "Book 2 chapter text and visually read embedded lettering are source evidence. Unspecified appearance is explicitly locked as a production choice; no generated artwork has been reviewed.",
+  "reference_images": [
+    "assets/b02-ch01-sc01.webp",
+    "assets/b02-ch01-sc02.webp",
+    "assets/b02-ch03-sc02.webp"
+  ],
+  "image_review_status": "generated grids visually inspected; continuity corrections applied to chapters 6 and 10"
+}

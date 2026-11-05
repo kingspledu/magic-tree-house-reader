@@ -5,7 +5,7 @@
     "insert_after_paragraph_id": "b02-ch01-p005",
     "description": "Before dawn in his bedroom Jack in light blue pajamas and glasses studies his notebook; Annie in yellow stands at his doorway.",
     "web_asset_path": "assets/b02-ch01-sc01.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch01",
     "quadrant": 1,
     "source_paragraph_ids": [
@@ -13,7 +13,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "c78fd29391326b95101bd2086f52abf49f8b798e615420225a31c29b317e698c"
+    "grid_sha256": "c78fd29391326b95101bd2086f52abf49f8b798e615420225a31c29b317e698c",
+    "published_commit": "6e4f80f9e01b6bb3ce07d097a91c679b679244fd",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch01-sc01.webp"
   },
   {
     "id": "b02-ch01-sc02",
@@ -21,7 +23,7 @@
     "insert_after_paragraph_id": "b02-ch01-p032",
     "description": "Now dressed in blue sweatshirt and jeans with green backpack, Jack meets Annie with her belt-clipped flashlight at the back door.",
     "web_asset_path": "assets/b02-ch01-sc02.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch01",
     "quadrant": 2,
     "source_paragraph_ids": [
@@ -29,7 +31,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "c78fd29391326b95101bd2086f52abf49f8b798e615420225a31c29b317e698c"
+    "grid_sha256": "c78fd29391326b95101bd2086f52abf49f8b798e615420225a31c29b317e698c",
+    "published_commit": "6e4f80f9e01b6bb3ce07d097a91c679b679244fd",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch01-sc02.webp"
   },
   {
     "id": "b02-ch01-sc03",
@@ -37,7 +41,7 @@
     "insert_after_paragraph_id": "b02-ch01-p046",
     "description": "The siblings walk through dark predawn woods by Annie's flashlight.",
     "web_asset_path": "assets/b02-ch01-sc03.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch01",
     "quadrant": 3,
     "source_paragraph_ids": [
@@ -45,7 +49,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "c78fd29391326b95101bd2086f52abf49f8b798e615420225a31c29b317e698c"
+    "grid_sha256": "c78fd29391326b95101bd2086f52abf49f8b798e615420225a31c29b317e698c",
+    "published_commit": "6e4f80f9e01b6bb3ce07d097a91c679b679244fd",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch01-sc03.webp"
   },
   {
     "id": "b02-ch01-sc04",
@@ -53,7 +59,7 @@
     "insert_after_paragraph_id": "b02-ch01-p060",
     "description": "Annie climbs the tall tree house rope ladder by flashlight while Jack waits below.",
     "web_asset_path": "assets/b02-ch01-sc04.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch01",
     "quadrant": 4,
     "source_paragraph_ids": [
@@ -61,7 +67,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "c78fd29391326b95101bd2086f52abf49f8b798e615420225a31c29b317e698c"
+    "grid_sha256": "c78fd29391326b95101bd2086f52abf49f8b798e615420225a31c29b317e698c",
+    "published_commit": "6e4f80f9e01b6bb3ce07d097a91c679b679244fd",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch01-sc04.webp"
   },
   {
     "id": "b02-ch02-sc01",
@@ -69,7 +77,7 @@
     "insert_after_paragraph_id": "b02-ch02-p006",
     "description": "Inside the dark tree house Annie shines a flashlight on books while Jack watches.",
     "web_asset_path": "assets/b02-ch02-sc01.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch02",
     "quadrant": 1,
     "source_paragraph_ids": [
@@ -77,7 +85,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "8784eb711bd8a2846b84ede568cc503cff202d1d9e7565a124140a2bf02fd4e9"
+    "grid_sha256": "8784eb711bd8a2846b84ede568cc503cff202d1d9e7565a124140a2bf02fd4e9",
+    "published_commit": "5ce16d501d617b419ee4454b971403a303a11b9f",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch02-sc01.webp"
   },
   {
     "id": "b02-ch02-sc02",
@@ -85,7 +95,7 @@
     "insert_after_paragraph_id": "b02-ch02-p018",
     "description": "Annie points at a picture of an armored knight riding a black horse in the castle book.",
     "web_asset_path": "assets/b02-ch02-sc02.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch02",
     "quadrant": 2,
     "source_paragraph_ids": [
@@ -93,7 +103,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "8784eb711bd8a2846b84ede568cc503cff202d1d9e7565a124140a2bf02fd4e9"
+    "grid_sha256": "8784eb711bd8a2846b84ede568cc503cff202d1d9e7565a124140a2bf02fd4e9",
+    "published_commit": "5ce16d501d617b419ee4454b971403a303a11b9f",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch02-sc02.webp"
   },
   {
     "id": "b02-ch02-sc03",
@@ -101,7 +113,7 @@
     "insert_after_paragraph_id": "b02-ch02-p034",
     "description": "An armored knight on a black horse appears beneath the tree as wind spins the tree house.",
     "web_asset_path": "assets/b02-ch02-sc03.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch02",
     "quadrant": 3,
     "source_paragraph_ids": [
@@ -109,7 +121,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "8784eb711bd8a2846b84ede568cc503cff202d1d9e7565a124140a2bf02fd4e9"
+    "grid_sha256": "8784eb711bd8a2846b84ede568cc503cff202d1d9e7565a124140a2bf02fd4e9",
+    "published_commit": "5ce16d501d617b419ee4454b971403a303a11b9f",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch02-sc03.webp"
   },
   {
     "id": "b02-ch02-sc04",
@@ -117,7 +131,7 @@
     "insert_after_paragraph_id": "b02-ch02-p043",
     "description": "The children see a vast medieval stone castle looming through cool fog from their tree house window.",
     "web_asset_path": "assets/b02-ch02-sc04.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch02",
     "quadrant": 4,
     "source_paragraph_ids": [
@@ -125,7 +139,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "8784eb711bd8a2846b84ede568cc503cff202d1d9e7565a124140a2bf02fd4e9"
+    "grid_sha256": "8784eb711bd8a2846b84ede568cc503cff202d1d9e7565a124140a2bf02fd4e9",
+    "published_commit": "5ce16d501d617b419ee4454b971403a303a11b9f",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch02-sc04.webp"
   },
   {
     "id": "b02-ch03-sc01",
@@ -133,7 +149,7 @@
     "insert_after_paragraph_id": "b02-ch03-p010",
     "description": "At the tree house base Jack studies the castle book and writes notes by flashlight while Annie watches a distant knight on a black horse.",
     "web_asset_path": "assets/b02-ch03-sc01.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch03",
     "quadrant": 1,
     "source_paragraph_ids": [
@@ -141,7 +157,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "e1a86ba2a3543f1d6027c28cde3d60b7f0fa710a7c278bde1bc6d175962a0403"
+    "grid_sha256": "e1a86ba2a3543f1d6027c28cde3d60b7f0fa710a7c278bde1bc6d175962a0403",
+    "published_commit": "ebad0353fb48f9e8bee06238b2ff09b4881c0557",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch03-sc01.webp"
   },
   {
     "id": "b02-ch03-sc02",
@@ -149,7 +167,7 @@
     "insert_after_paragraph_id": "b02-ch03-p013",
     "description": "A silver-armored knight with lowered visor rides his black horse across a wooden drawbridge over the castle moat.",
     "web_asset_path": "assets/b02-ch03-sc02.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch03",
     "quadrant": 2,
     "source_paragraph_ids": [
@@ -157,7 +175,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "e1a86ba2a3543f1d6027c28cde3d60b7f0fa710a7c278bde1bc6d175962a0403"
+    "grid_sha256": "e1a86ba2a3543f1d6027c28cde3d60b7f0fa710a7c278bde1bc6d175962a0403",
+    "published_commit": "ebad0353fb48f9e8bee06238b2ff09b4881c0557",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch03-sc02.webp"
   },
   {
     "id": "b02-ch03-sc03",
@@ -165,7 +185,7 @@
     "insert_after_paragraph_id": "b02-ch03-p019",
     "description": "The children explore the misty castle grounds with a windmill and small hawk house visible.",
     "web_asset_path": "assets/b02-ch03-sc03.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch03",
     "quadrant": 3,
     "source_paragraph_ids": [
@@ -173,7 +193,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "e1a86ba2a3543f1d6027c28cde3d60b7f0fa710a7c278bde1bc6d175962a0403"
+    "grid_sha256": "e1a86ba2a3543f1d6027c28cde3d60b7f0fa710a7c278bde1bc6d175962a0403",
+    "published_commit": "ebad0353fb48f9e8bee06238b2ff09b4881c0557",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch03-sc03.webp"
   },
   {
     "id": "b02-ch03-sc04",
@@ -181,7 +203,7 @@
     "insert_after_paragraph_id": "b02-ch03-p044",
     "description": "Annie dashes across the drawbridge toward the castle gate while Jack looks up from his book.",
     "web_asset_path": "assets/b02-ch03-sc04.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch03",
     "quadrant": 4,
     "source_paragraph_ids": [
@@ -189,7 +211,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "e1a86ba2a3543f1d6027c28cde3d60b7f0fa710a7c278bde1bc6d175962a0403"
+    "grid_sha256": "e1a86ba2a3543f1d6027c28cde3d60b7f0fa710a7c278bde1bc6d175962a0403",
+    "published_commit": "ebad0353fb48f9e8bee06238b2ff09b4881c0557",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch03-sc04.webp"
   },
   {
     "id": "b02-ch04-sc01",
@@ -197,7 +221,7 @@
     "insert_after_paragraph_id": "b02-ch04-p006",
     "description": "Jack hurries across the wooden drawbridge while a medieval guard watches from the wall.",
     "web_asset_path": "assets/b02-ch04-sc01.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch04",
     "quadrant": 1,
     "source_paragraph_ids": [
@@ -205,7 +229,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "7badd3717e0bbba0ce4c6d52656e8bf711f243f2f40a75c2261751a163f21235"
+    "grid_sha256": "7badd3717e0bbba0ce4c6d52656e8bf711f243f2f40a75c2261751a163f21235",
+    "published_commit": "6519cf67251e99191fb3eb029fcd7e3e89576c76",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch04-sc01.webp"
   },
   {
     "id": "b02-ch04-sc02",
@@ -213,7 +239,7 @@
     "insert_after_paragraph_id": "b02-ch04-p017",
     "description": "Annie waves from behind a stone well in the torchlit castle courtyard; Jack approaches.",
     "web_asset_path": "assets/b02-ch04-sc02.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch04",
     "quadrant": 2,
     "source_paragraph_ids": [
@@ -221,7 +247,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "7badd3717e0bbba0ce4c6d52656e8bf711f243f2f40a75c2261751a163f21235"
+    "grid_sha256": "7badd3717e0bbba0ce4c6d52656e8bf711f243f2f40a75c2261751a163f21235",
+    "published_commit": "6519cf67251e99191fb3eb029fcd7e3e89576c76",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch04-sc02.webp"
   },
   {
     "id": "b02-ch04-sc03",
@@ -229,7 +257,7 @@
     "insert_after_paragraph_id": "b02-ch04-p023",
     "description": "Both children peek through a doorway into the Great Hall feast: long tables, fireplace, medieval diners, musicians and serving boys.",
     "web_asset_path": "assets/b02-ch04-sc03.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch04",
     "quadrant": 3,
     "source_paragraph_ids": [
@@ -237,7 +265,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "7badd3717e0bbba0ce4c6d52656e8bf711f243f2f40a75c2261751a163f21235"
+    "grid_sha256": "7badd3717e0bbba0ce4c6d52656e8bf711f243f2f40a75c2261751a163f21235",
+    "published_commit": "6519cf67251e99191fb3eb029fcd7e3e89576c76",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch04-sc03.webp"
   },
   {
     "id": "b02-ch04-sc04",
@@ -245,7 +275,7 @@
     "insert_after_paragraph_id": "b02-ch04-p032",
     "description": "An angry medieval servant carrying a tray of pies catches the children peeking; they start fleeing down the dim hallway.",
     "web_asset_path": "assets/b02-ch04-sc04.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch04",
     "quadrant": 4,
     "source_paragraph_ids": [
@@ -253,7 +283,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "7badd3717e0bbba0ce4c6d52656e8bf711f243f2f40a75c2261751a163f21235"
+    "grid_sha256": "7badd3717e0bbba0ce4c6d52656e8bf711f243f2f40a75c2261751a163f21235",
+    "published_commit": "6519cf67251e99191fb3eb029fcd7e3e89576c76",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch04-sc04.webp"
   },
   {
     "id": "b02-ch05-sc01",
@@ -261,7 +293,7 @@
     "insert_after_paragraph_id": "b02-ch05-p011",
     "description": "The flashlight reveals empty headless suits of armor in a cold castle armory; Jack and Annie look relieved.",
     "web_asset_path": "assets/b02-ch05-sc01.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch05",
     "quadrant": 1,
     "source_paragraph_ids": [
@@ -269,7 +301,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "59db3105fa79cd9a72019dd8ec9b03c5af6b79125ddb11c14b0c6442d0c191cb"
+    "grid_sha256": "59db3105fa79cd9a72019dd8ec9b03c5af6b79125ddb11c14b0c6442d0c191cb",
+    "published_commit": "bc4d696c9747487d182b78ed2a77edded3c248a7",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch05-sc01.webp"
   },
   {
     "id": "b02-ch05-sc02",
@@ -277,7 +311,7 @@
     "insert_after_paragraph_id": "b02-ch05-p018",
     "description": "Jack and Annie examine stored helmets, shields and medieval weapons by flashlight.",
     "web_asset_path": "assets/b02-ch05-sc02.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch05",
     "quadrant": 2,
     "source_paragraph_ids": [
@@ -285,7 +319,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "59db3105fa79cd9a72019dd8ec9b03c5af6b79125ddb11c14b0c6442d0c191cb"
+    "grid_sha256": "59db3105fa79cd9a72019dd8ec9b03c5af6b79125ddb11c14b0c6442d0c191cb",
+    "published_commit": "bc4d696c9747487d182b78ed2a77edded3c248a7",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch05-sc02.webp"
   },
   {
     "id": "b02-ch05-sc03",
@@ -293,7 +329,7 @@
     "insert_after_paragraph_id": "b02-ch05-p025",
     "description": "Jack bends under an oversized heavy metal helmet with visor down; Annie watches anxiously with the flashlight.",
     "web_asset_path": "assets/b02-ch05-sc03.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch05",
     "quadrant": 3,
     "source_paragraph_ids": [
@@ -301,7 +337,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "59db3105fa79cd9a72019dd8ec9b03c5af6b79125ddb11c14b0c6442d0c191cb"
+    "grid_sha256": "59db3105fa79cd9a72019dd8ec9b03c5af6b79125ddb11c14b0c6442d0c191cb",
+    "published_commit": "bc4d696c9747487d182b78ed2a77edded3c248a7",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch05-sc03.webp"
   },
   {
     "id": "b02-ch05-sc04",
@@ -309,7 +347,7 @@
     "insert_after_paragraph_id": "b02-ch05-p036",
     "description": "Three distinct burly guards surround Jack and Annie after removing Jack's helmet, lit by a fiery torch.",
     "web_asset_path": "assets/b02-ch05-sc04.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch05",
     "quadrant": 4,
     "source_paragraph_ids": [
@@ -317,7 +355,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "59db3105fa79cd9a72019dd8ec9b03c5af6b79125ddb11c14b0c6442d0c191cb"
+    "grid_sha256": "59db3105fa79cd9a72019dd8ec9b03c5af6b79125ddb11c14b0c6442d0c191cb",
+    "published_commit": "bc4d696c9747487d182b78ed2a77edded3c248a7",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch05-sc04.webp"
   },
   {
     "id": "b02-ch06-sc01",
@@ -325,7 +365,7 @@
     "insert_after_paragraph_id": "b02-ch06-p001",
     "description": "Three burly guards confront the siblings: narrowed eyes with brown tunic and torch, ruddy round face with red tunic, long dark mustache with green tunic.",
     "web_asset_path": "assets/b02-ch06-sc01.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch06",
     "quadrant": 1,
     "source_paragraph_ids": [
@@ -333,7 +373,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "c092bbae39dba5e3882700d9f0b3f099b3c467cf4dc1a3f7ac45a02f0ccbf9be"
+    "grid_sha256": "c092bbae39dba5e3882700d9f0b3f099b3c467cf4dc1a3f7ac45a02f0ccbf9be",
+    "published_commit": "b8655972a9eb23a8d40a44894a180419153db784",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch06-sc01.webp"
   },
   {
     "id": "b02-ch06-sc02",
@@ -341,7 +383,7 @@
     "insert_after_paragraph_id": "b02-ch06-p021",
     "description": "The same three guards push the children into a damp stone dungeon with chains on walls and puddles; Annie holds Jack's green backpack.",
     "web_asset_path": "assets/b02-ch06-sc02.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch06",
     "quadrant": 2,
     "source_paragraph_ids": [
@@ -349,7 +391,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "c092bbae39dba5e3882700d9f0b3f099b3c467cf4dc1a3f7ac45a02f0ccbf9be"
+    "grid_sha256": "c092bbae39dba5e3882700d9f0b3f099b3c467cf4dc1a3f7ac45a02f0ccbf9be",
+    "published_commit": "b8655972a9eb23a8d40a44894a180419153db784",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch06-sc02.webp"
   },
   {
     "id": "b02-ch06-sc03",
@@ -357,7 +401,7 @@
     "insert_after_paragraph_id": "b02-ch06-p031",
     "description": "Annie raises the flashlight like a magic wand; three frightened guards recoil and the torch falls into a puddle.",
     "web_asset_path": "assets/b02-ch06-sc03.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch06",
     "quadrant": 3,
     "source_paragraph_ids": [
@@ -365,7 +409,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "c092bbae39dba5e3882700d9f0b3f099b3c467cf4dc1a3f7ac45a02f0ccbf9be"
+    "grid_sha256": "c092bbae39dba5e3882700d9f0b3f099b3c467cf4dc1a3f7ac45a02f0ccbf9be",
+    "published_commit": "b8655972a9eb23a8d40a44894a180419153db784",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch06-sc03.webp"
   },
   {
     "id": "b02-ch06-sc04",
@@ -373,7 +419,7 @@
     "insert_after_paragraph_id": "b02-ch06-p042",
     "description": "The three guards cower on the wet dungeon floor as Annie and Jack escape through the open door with the backpack.",
     "web_asset_path": "assets/b02-ch06-sc04.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch06",
     "quadrant": 4,
     "source_paragraph_ids": [
@@ -381,7 +427,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "c092bbae39dba5e3882700d9f0b3f099b3c467cf4dc1a3f7ac45a02f0ccbf9be"
+    "grid_sha256": "c092bbae39dba5e3882700d9f0b3f099b3c467cf4dc1a3f7ac45a02f0ccbf9be",
+    "published_commit": "b8655972a9eb23a8d40a44894a180419153db784",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch06-sc04.webp"
   },
   {
     "id": "b02-ch07-sc01",
@@ -389,7 +437,7 @@
     "insert_after_paragraph_id": "b02-ch07-p006",
     "description": "The siblings hide behind a door in a storeroom full of flour sacks and wooden barrels; a guard's torchlight sweeps outside.",
     "web_asset_path": "assets/b02-ch07-sc01.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch07",
     "quadrant": 1,
     "source_paragraph_ids": [
@@ -397,7 +445,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "d8642c5b8d1ab7fd40f796a52b99343b6339afdc06cae1325bcf5b44f0b615a1"
+    "grid_sha256": "d8642c5b8d1ab7fd40f796a52b99343b6339afdc06cae1325bcf5b44f0b615a1",
+    "published_commit": "7aa3b5c7010c4d6801236edada6989cb4157610f",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch07-sc01.webp"
   },
   {
     "id": "b02-ch07-sc02",
@@ -405,7 +455,7 @@
     "insert_after_paragraph_id": "b02-ch07-p029",
     "description": "Jack and Annie lift a square stone and open the small wooden trapdoor beneath it.",
     "web_asset_path": "assets/b02-ch07-sc02.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch07",
     "quadrant": 2,
     "source_paragraph_ids": [
@@ -413,7 +463,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "d8642c5b8d1ab7fd40f796a52b99343b6339afdc06cae1325bcf5b44f0b615a1"
+    "grid_sha256": "d8642c5b8d1ab7fd40f796a52b99343b6339afdc06cae1325bcf5b44f0b615a1",
+    "published_commit": "7aa3b5c7010c4d6801236edada6989cb4157610f",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch07-sc02.webp"
   },
   {
     "id": "b02-ch07-sc03",
@@ -421,7 +473,7 @@
     "insert_after_paragraph_id": "b02-ch07-p035",
     "description": "Jack and Annie crouch through a narrow stone tunnel by a dimming flashlight.",
     "web_asset_path": "assets/b02-ch07-sc03.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch07",
     "quadrant": 3,
     "source_paragraph_ids": [
@@ -429,7 +481,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "d8642c5b8d1ab7fd40f796a52b99343b6339afdc06cae1325bcf5b44f0b615a1"
+    "grid_sha256": "d8642c5b8d1ab7fd40f796a52b99343b6339afdc06cae1325bcf5b44f0b615a1",
+    "published_commit": "7aa3b5c7010c4d6801236edada6989cb4157610f",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch07-sc03.webp"
   },
   {
     "id": "b02-ch07-sc04",
@@ -437,7 +491,7 @@
     "insert_after_paragraph_id": "b02-ch07-p055",
     "description": "Jack loses his grip at the tunnel's exit above the moat and falls toward the dark water; Annie reaches from the opening, child friendly no injury.",
     "web_asset_path": "assets/b02-ch07-sc04.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch07",
     "quadrant": 4,
     "source_paragraph_ids": [
@@ -445,7 +499,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "d8642c5b8d1ab7fd40f796a52b99343b6339afdc06cae1325bcf5b44f0b615a1"
+    "grid_sha256": "d8642c5b8d1ab7fd40f796a52b99343b6339afdc06cae1325bcf5b44f0b615a1",
+    "published_commit": "7aa3b5c7010c4d6801236edada6989cb4157610f",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch07-sc04.webp"
   },
   {
     "id": "b02-ch08-sc01",
@@ -453,7 +509,7 @@
     "insert_after_paragraph_id": "b02-ch08-p003",
     "description": "Jack with wet blue sweatshirt, jeans and green backpack struggles in dark moat water, putting his round glasses back on.",
     "web_asset_path": "assets/b02-ch08-sc01.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch08",
     "quadrant": 1,
     "source_paragraph_ids": [
@@ -461,7 +517,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "768d3269377efa5f392fb28d4c923fb17f9f3a863aae8a07c160a700e4931297"
+    "grid_sha256": "768d3269377efa5f392fb28d4c923fb17f9f3a863aae8a07c160a700e4931297",
+    "published_commit": "8b708af3597d24e5729af7778bdb45816277e349",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch08-sc01.webp"
   },
   {
     "id": "b02-ch08-sc02",
@@ -469,7 +527,7 @@
     "insert_after_paragraph_id": "b02-ch08-p024",
     "description": "Wet Annie reaches from the moat bank and helps wet Jack climb onto the grass; no crocodile visible.",
     "web_asset_path": "assets/b02-ch08-sc02.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch08",
     "quadrant": 2,
     "source_paragraph_ids": [
@@ -477,7 +535,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "768d3269377efa5f392fb28d4c923fb17f9f3a863aae8a07c160a700e4931297"
+    "grid_sha256": "768d3269377efa5f392fb28d4c923fb17f9f3a863aae8a07c160a700e4931297",
+    "published_commit": "8b708af3597d24e5729af7778bdb45816277e349",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch08-sc02.webp"
   },
   {
     "id": "b02-ch08-sc03",
@@ -485,7 +545,7 @@
     "insert_after_paragraph_id": "b02-ch08-p034",
     "description": "Both wet children shiver in thick fog; Jack's soaked flashlight no longer works.",
     "web_asset_path": "assets/b02-ch08-sc03.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch08",
     "quadrant": 3,
     "source_paragraph_ids": [
@@ -493,7 +553,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "768d3269377efa5f392fb28d4c923fb17f9f3a863aae8a07c160a700e4931297"
+    "grid_sha256": "768d3269377efa5f392fb28d4c923fb17f9f3a863aae8a07c160a700e4931297",
+    "published_commit": "8b708af3597d24e5729af7778bdb45816277e349",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch08-sc03.webp"
   },
   {
     "id": "b02-ch08-sc04",
@@ -501,7 +563,7 @@
     "insert_after_paragraph_id": "b02-ch08-p040",
     "description": "Clouds part and moonlight reveals a silent silver-armored knight with lowered visor on a black horse near the shivering children.",
     "web_asset_path": "assets/b02-ch08-sc04.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch08",
     "quadrant": 4,
     "source_paragraph_ids": [
@@ -509,7 +571,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "768d3269377efa5f392fb28d4c923fb17f9f3a863aae8a07c160a700e4931297"
+    "grid_sha256": "768d3269377efa5f392fb28d4c923fb17f9f3a863aae8a07c160a700e4931297",
+    "published_commit": "8b708af3597d24e5729af7778bdb45816277e349",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch08-sc04.webp"
   },
   {
     "id": "b02-ch09-sc01",
@@ -517,7 +581,7 @@
     "insert_after_paragraph_id": "b02-ch09-p013",
     "description": "The silent armored knight helps wet Jack onto a black horse behind wet Annie.",
     "web_asset_path": "assets/b02-ch09-sc01.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch09",
     "quadrant": 1,
     "source_paragraph_ids": [
@@ -525,7 +589,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "082502f1c973247161359f7be5098f065421cf03f9d0bcc855b35bd2f429eaf2"
+    "grid_sha256": "082502f1c973247161359f7be5098f065421cf03f9d0bcc855b35bd2f429eaf2",
+    "published_commit": "f109fdb8f5e4bb88e4c4a8b40df75559f4cfce68",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch09-sc01.webp"
   },
   {
     "id": "b02-ch09-sc02",
@@ -533,7 +599,7 @@
     "insert_after_paragraph_id": "b02-ch09-p015",
     "description": "A black horse carries exactly three riders beside the moonlit moat: Annie in front, Jack behind her, full-sized armored knight behind Jack.",
     "web_asset_path": "assets/b02-ch09-sc02.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch09",
     "quadrant": 2,
     "source_paragraph_ids": [
@@ -541,7 +607,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "082502f1c973247161359f7be5098f065421cf03f9d0bcc855b35bd2f429eaf2"
+    "grid_sha256": "082502f1c973247161359f7be5098f065421cf03f9d0bcc855b35bd2f429eaf2",
+    "published_commit": "f109fdb8f5e4bb88e4c4a8b40df75559f4cfce68",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch09-sc02.webp"
   },
   {
     "id": "b02-ch09-sc03",
@@ -549,7 +617,7 @@
     "insert_after_paragraph_id": "b02-ch09-p024",
     "description": "Jack and Annie bow thanks at the tree house ladder as the knight remounts his black horse.",
     "web_asset_path": "assets/b02-ch09-sc03.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch09",
     "quadrant": 3,
     "source_paragraph_ids": [
@@ -557,7 +625,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "082502f1c973247161359f7be5098f065421cf03f9d0bcc855b35bd2f429eaf2"
+    "grid_sha256": "082502f1c973247161359f7be5098f065421cf03f9d0bcc855b35bd2f429eaf2",
+    "published_commit": "f109fdb8f5e4bb88e4c4a8b40df75559f4cfce68",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch09-sc03.webp"
   },
   {
     "id": "b02-ch09-sc04",
@@ -565,7 +635,7 @@
     "insert_after_paragraph_id": "b02-ch09-p044",
     "description": "Inside the tree house wet Annie points at the Pennsylvania book while wet Jack looks alarmed; the tree house spins through the night.",
     "web_asset_path": "assets/b02-ch09-sc04.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch09",
     "quadrant": 4,
     "source_paragraph_ids": [
@@ -573,7 +643,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "082502f1c973247161359f7be5098f065421cf03f9d0bcc855b35bd2f429eaf2"
+    "grid_sha256": "082502f1c973247161359f7be5098f065421cf03f9d0bcc855b35bd2f429eaf2",
+    "published_commit": "f109fdb8f5e4bb88e4c4a8b40df75559f4cfce68",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch09-sc04.webp"
   },
   {
     "id": "b02-ch10-sc01",
@@ -581,7 +653,7 @@
     "insert_after_paragraph_id": "b02-ch10-p002",
     "description": "The children see familiar Frog Creek at dawn from the tree house; their clothes are still damp.",
     "web_asset_path": "assets/b02-ch10-sc01.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch10",
     "quadrant": 1,
     "source_paragraph_ids": [
@@ -589,7 +661,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "6cb9e3886c7a182ee0c59a64a6ab29703bf48b79d96fb903061fbfc2fe33306c"
+    "grid_sha256": "6cb9e3886c7a182ee0c59a64a6ab29703bf48b79d96fb903061fbfc2fe33306c",
+    "published_commit": "74c9c5a953c12170ca59622a3740a527b3130459",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch10-sc01.webp"
   },
   {
     "id": "b02-ch10-sc02",
@@ -597,7 +671,7 @@
     "insert_after_paragraph_id": "b02-ch10-p014",
     "description": "Jack and Annie sneak through their back door and up the stairs in the early morning.",
     "web_asset_path": "assets/b02-ch10-sc02.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch10",
     "quadrant": 2,
     "source_paragraph_ids": [
@@ -605,7 +679,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "6cb9e3886c7a182ee0c59a64a6ab29703bf48b79d96fb903061fbfc2fe33306c"
+    "grid_sha256": "6cb9e3886c7a182ee0c59a64a6ab29703bf48b79d96fb903061fbfc2fe33306c",
+    "published_commit": "74c9c5a953c12170ca59622a3740a527b3130459",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch10-sc02.webp"
   },
   {
     "id": "b02-ch10-sc03",
@@ -613,7 +689,7 @@
     "insert_after_paragraph_id": "b02-ch10-p026",
     "description": "Now in dry light blue pajamas and glasses, Jack compares a blue leather bookmark with a gold medallion by his bedroom lamp; no readable lettering.",
     "web_asset_path": "assets/b02-ch10-sc03.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch10",
     "quadrant": 3,
     "source_paragraph_ids": [
@@ -621,7 +697,9 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "6cb9e3886c7a182ee0c59a64a6ab29703bf48b79d96fb903061fbfc2fe33306c"
+    "grid_sha256": "6cb9e3886c7a182ee0c59a64a6ab29703bf48b79d96fb903061fbfc2fe33306c",
+    "published_commit": "74c9c5a953c12170ca59622a3740a527b3130459",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch10-sc03.webp"
   },
   {
     "id": "b02-ch10-sc04",
@@ -629,7 +707,7 @@
     "insert_after_paragraph_id": "b02-ch10-p034",
     "description": "Jack falls asleep on his bed with notebook and pencil nearby, wearing light blue pajamas; soft peaceful dawn light.",
     "web_asset_path": "assets/b02-ch10-sc04.webp",
-    "status": "integrated",
+    "status": "published",
     "grid_id": "b02-ch10",
     "quadrant": 4,
     "source_paragraph_ids": [
@@ -637,6 +715,8 @@
     ],
     "width": 619,
     "height": 619,
-    "grid_sha256": "6cb9e3886c7a182ee0c59a64a6ab29703bf48b79d96fb903061fbfc2fe33306c"
+    "grid_sha256": "6cb9e3886c7a182ee0c59a64a6ab29703bf48b79d96fb903061fbfc2fe33306c",
+    "published_commit": "74c9c5a953c12170ca59622a3740a527b3130459",
+    "published_url": "https://kingspledu.github.io/magic-tree-house-reader/assets/b02-ch10-sc04.webp"
   }
 ]

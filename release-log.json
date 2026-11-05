@@ -1,0 +1,184 @@
+[
+  {
+    "commit_sha": "74c9c5a953c12170ca59622a3740a527b3130459",
+    "description": "Add four Korean webtoon scenes for b02-ch10",
+    "grid_id": "b02-ch10",
+    "scene_ids": [
+      "b02-ch10-sc01",
+      "b02-ch10-sc02",
+      "b02-ch10-sc03",
+      "b02-ch10-sc04"
+    ],
+    "deployment_status": "built",
+    "deployment_commit_sha": "74c9c5a953c12170ca59622a3740a527b3130459",
+    "deployment_url": "https://kingspledu.github.io/magic-tree-house-reader/",
+    "published_at": "2026-11-05T11:19:48Z",
+    "error": null
+  },
+  {
+    "commit_sha": "f109fdb8f5e4bb88e4c4a8b40df75559f4cfce68",
+    "description": "Add four Korean webtoon scenes for b02-ch09",
+    "grid_id": "b02-ch09",
+    "scene_ids": [
+      "b02-ch09-sc01",
+      "b02-ch09-sc02",
+      "b02-ch09-sc03",
+      "b02-ch09-sc04"
+    ],
+    "deployment_status": "built",
+    "deployment_commit_sha": "f109fdb8f5e4bb88e4c4a8b40df75559f4cfce68",
+    "deployment_url": "https://kingspledu.github.io/magic-tree-house-reader/",
+    "published_at": "2026-11-05T11:16:44Z",
+    "error": null
+  },
+  {
+    "commit_sha": "8b708af3597d24e5729af7778bdb45816277e349",
+    "description": "Add four Korean webtoon scenes for b02-ch08",
+    "grid_id": "b02-ch08",
+    "scene_ids": [
+      "b02-ch08-sc01",
+      "b02-ch08-sc02",
+      "b02-ch08-sc03",
+      "b02-ch08-sc04"
+    ],
+    "deployment_status": "built",
+    "deployment_commit_sha": "8b708af3597d24e5729af7778bdb45816277e349",
+    "deployment_url": "https://kingspledu.github.io/magic-tree-house-reader/",
+    "published_at": "2026-11-05T11:15:13Z",
+    "error": null
+  },
+  {
+    "commit_sha": "7aa3b5c7010c4d6801236edada6989cb4157610f",
+    "description": "Add four Korean webtoon scenes for b02-ch07",
+    "grid_id": "b02-ch07",
+    "scene_ids": [
+      "b02-ch07-sc01",
+      "b02-ch07-sc02",
+      "b02-ch07-sc03",
+      "b02-ch07-sc04"
+    ],
+    "deployment_status": "built",
+    "deployment_commit_sha": "7aa3b5c7010c4d6801236edada6989cb4157610f",
+    "deployment_url": "https://kingspledu.github.io/magic-tree-house-reader/",
+    "published_at": "2026-11-05T11:14:31Z",
+    "error": null
+  },
+  {
+    "commit_sha": "b8655972a9eb23a8d40a44894a180419153db784",
+    "description": "Add four Korean webtoon scenes for b02-ch06",
+    "grid_id": "b02-ch06",
+    "scene_ids": [
+      "b02-ch06-sc01",
+      "b02-ch06-sc02",
+      "b02-ch06-sc03",
+      "b02-ch06-sc04"
+    ],
+    "deployment_status": "built",
+    "deployment_commit_sha": "b8655972a9eb23a8d40a44894a180419153db784",
+    "deployment_url": "https://kingspledu.github.io/magic-tree-house-reader/",
+    "published_at": "2026-11-05T11:13:12Z",
+    "error": null
+  },
+  {
+    "commit_sha": "bc4d696c9747487d182b78ed2a77edded3c248a7",
+    "description": "Add four Korean webtoon scenes for b02-ch05",
+    "grid_id": "b02-ch05",
+    "scene_ids": [
+      "b02-ch05-sc01",
+      "b02-ch05-sc02",
+      "b02-ch05-sc03",
+      "b02-ch05-sc04"
+    ],
+    "deployment_status": "built",
+    "deployment_commit_sha": "bc4d696c9747487d182b78ed2a77edded3c248a7",
+    "deployment_url": "https://kingspledu.github.io/magic-tree-house-reader/",
+    "published_at": "2026-11-05T11:05:20Z",
+    "error": null
+  },
+  {
+    "commit_sha": "6519cf67251e99191fb3eb029fcd7e3e89576c76",
+    "description": "Add four Korean webtoon scenes for b02-ch04",
+    "grid_id": "b02-ch04",
+    "scene_ids": [
+      "b02-ch04-sc01",
+      "b02-ch04-sc02",
+      "b02-ch04-sc03",
+      "b02-ch04-sc04"
+    ],
+    "deployment_status": "built",
+    "deployment_commit_sha": "6519cf67251e99191fb3eb029fcd7e3e89576c76",
+    "deployment_url": "https://kingspledu.github.io/magic-tree-house-reader/",
+    "published_at": "2026-11-05T11:04:05Z",
+    "error": null
+  },
+  {
+    "commit_sha": "ebad0353fb48f9e8bee06238b2ff09b4881c0557",
+    "description": "Add four Korean webtoon scenes for b02-ch03",
+    "grid_id": "b02-ch03",
+    "scene_ids": [
+      "b02-ch03-sc01",
+      "b02-ch03-sc02",
+      "b02-ch03-sc03",
+      "b02-ch03-sc04"
+    ],
+    "deployment_status": "built",
+    "deployment_commit_sha": "ebad0353fb48f9e8bee06238b2ff09b4881c0557",
+    "deployment_url": "https://kingspledu.github.io/magic-tree-house-reader/",
+    "published_at": "2026-11-05T10:54:48Z",
+    "error": null
+  },
+  {
+    "commit_sha": "5ce16d501d617b419ee4454b971403a303a11b9f",
+    "description": "Add four Korean webtoon scenes for b02-ch02",
+    "grid_id": "b02-ch02",
+    "scene_ids": [
+      "b02-ch02-sc01",
+      "b02-ch02-sc02",
+      "b02-ch02-sc03",
+      "b02-ch02-sc04"
+    ],
+    "deployment_status": "built",
+    "deployment_commit_sha": "5ce16d501d617b419ee4454b971403a303a11b9f",
+    "deployment_url": "https://kingspledu.github.io/magic-tree-house-reader/",
+    "published_at": "2026-11-05T10:53:52Z",
+    "error": null
+  },
+  {
+    "commit_sha": "6e4f80f9e01b6bb3ce07d097a91c679b679244fd",
+    "description": "Add Book 2 opening four Korean webtoon scenes",
+    "grid_id": "b02-ch01",
+    "scene_ids": [
+      "b02-ch01-sc01",
+      "b02-ch01-sc02",
+      "b02-ch01-sc03",
+      "b02-ch01-sc04"
+    ],
+    "deployment_status": "built",
+    "deployment_commit_sha": "6e4f80f9e01b6bb3ce07d097a91c679b679244fd",
+    "deployment_url": "https://kingspledu.github.io/magic-tree-house-reader/",
+    "published_at": "2026-11-05T10:50:10Z",
+    "error": null
+  },
+  {
+    "commit_sha": "970b639f79835ea19479cfe9856b7b1959ac941c",
+    "description": "Limit reader to Book 2 The Knight at Dawn as requested",
+    "grid_id": null,
+    "scene_ids": [],
+    "deployment_status": "built",
+    "deployment_commit_sha": "970b639f79835ea19479cfe9856b7b1959ac941c",
+    "deployment_url": "https://kingspledu.github.io/magic-tree-house-reader/",
+    "published_at": "2026-11-05T10:49:17Z",
+    "error": null
+  },
+  {
+    "commit_sha": "4473ea881fad916b1b054471e5e0d51c3d23484a",
+    "description": "Publish complete two-book story reader with first four illustrations",
+    "grid_id": null,
+    "scene_ids": [],
+    "deployment_status": "built",
+    "deployment_commit_sha": "4473ea881fad916b1b054471e5e0d51c3d23484a",
+    "deployment_url": "https://kingspledu.github.io/magic-tree-house-reader/",
+    "published_at": "2026-11-05T10:46:32Z",
+    "error": null
+  }
+]
