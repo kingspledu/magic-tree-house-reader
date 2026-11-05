@@ -453,12 +453,15 @@
     "insert_after_paragraph_id": "b02-ch08-p003",
     "description": "Jack with wet blue sweatshirt, jeans and green backpack struggles in dark moat water, putting his round glasses back on.",
     "web_asset_path": "assets/b02-ch08-sc01.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch08",
     "quadrant": 1,
     "source_paragraph_ids": [
       "b02-ch08-p003"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "768d3269377efa5f392fb28d4c923fb17f9f3a863aae8a07c160a700e4931297"
   },
   {
     "id": "b02-ch08-sc02",
@@ -466,12 +469,15 @@
     "insert_after_paragraph_id": "b02-ch08-p024",
     "description": "Wet Annie reaches from the moat bank and helps wet Jack climb onto the grass; no crocodile visible.",
     "web_asset_path": "assets/b02-ch08-sc02.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch08",
     "quadrant": 2,
     "source_paragraph_ids": [
       "b02-ch08-p024"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "768d3269377efa5f392fb28d4c923fb17f9f3a863aae8a07c160a700e4931297"
   },
   {
     "id": "b02-ch08-sc03",
@@ -479,12 +485,15 @@
     "insert_after_paragraph_id": "b02-ch08-p034",
     "description": "Both wet children shiver in thick fog; Jack's soaked flashlight no longer works.",
     "web_asset_path": "assets/b02-ch08-sc03.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch08",
     "quadrant": 3,
     "source_paragraph_ids": [
       "b02-ch08-p034"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "768d3269377efa5f392fb28d4c923fb17f9f3a863aae8a07c160a700e4931297"
   },
   {
     "id": "b02-ch08-sc04",
@@ -492,12 +501,15 @@
     "insert_after_paragraph_id": "b02-ch08-p040",
     "description": "Clouds part and moonlight reveals a silent silver-armored knight with lowered visor on a black horse near the shivering children.",
     "web_asset_path": "assets/b02-ch08-sc04.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch08",
     "quadrant": 4,
     "source_paragraph_ids": [
       "b02-ch08-p040"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "768d3269377efa5f392fb28d4c923fb17f9f3a863aae8a07c160a700e4931297"
   },
   {
     "id": "b02-ch09-sc01",
