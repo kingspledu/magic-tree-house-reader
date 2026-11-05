@@ -197,12 +197,15 @@
     "insert_after_paragraph_id": "b02-ch04-p006",
     "description": "Jack hurries across the wooden drawbridge while a medieval guard watches from the wall.",
     "web_asset_path": "assets/b02-ch04-sc01.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch04",
     "quadrant": 1,
     "source_paragraph_ids": [
       "b02-ch04-p006"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "7badd3717e0bbba0ce4c6d52656e8bf711f243f2f40a75c2261751a163f21235"
   },
   {
     "id": "b02-ch04-sc02",
@@ -210,12 +213,15 @@
     "insert_after_paragraph_id": "b02-ch04-p017",
     "description": "Annie waves from behind a stone well in the torchlit castle courtyard; Jack approaches.",
     "web_asset_path": "assets/b02-ch04-sc02.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch04",
     "quadrant": 2,
     "source_paragraph_ids": [
       "b02-ch04-p017"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "7badd3717e0bbba0ce4c6d52656e8bf711f243f2f40a75c2261751a163f21235"
   },
   {
     "id": "b02-ch04-sc03",
@@ -223,12 +229,15 @@
     "insert_after_paragraph_id": "b02-ch04-p023",
     "description": "Both children peek through a doorway into the Great Hall feast: long tables, fireplace, medieval diners, musicians and serving boys.",
     "web_asset_path": "assets/b02-ch04-sc03.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch04",
     "quadrant": 3,
     "source_paragraph_ids": [
       "b02-ch04-p023"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "7badd3717e0bbba0ce4c6d52656e8bf711f243f2f40a75c2261751a163f21235"
   },
   {
     "id": "b02-ch04-sc04",
@@ -236,12 +245,15 @@
     "insert_after_paragraph_id": "b02-ch04-p032",
     "description": "An angry medieval servant carrying a tray of pies catches the children peeking; they start fleeing down the dim hallway.",
     "web_asset_path": "assets/b02-ch04-sc04.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch04",
     "quadrant": 4,
     "source_paragraph_ids": [
       "b02-ch04-p032"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "7badd3717e0bbba0ce4c6d52656e8bf711f243f2f40a75c2261751a163f21235"
   },
   {
     "id": "b02-ch05-sc01",
