@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "The Knight at Dawn · Magic Tree House",
+  "short_name": "MTH 2권",
+  "description": "잭과 애니의 두 번째 모험 — 영어 원문과 한국 웹툰 삽화",
+  "lang": "ko",
+  "start_url": "./?app=1",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "background_color": "#f7f4e9",
+  "theme_color": "#263e30",
+  "icons": [
+    {"src": "assets/app-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "assets/app-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "assets/app-icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
