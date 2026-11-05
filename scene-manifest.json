@@ -1,0 +1,1054 @@
+[
+  {
+    "id": "b01-ch01-sc01",
+    "chapter_id": "b01-ch01",
+    "insert_after_paragraph_id": "b01-ch01-p003",
+    "description": "Annie races along the woodland road while Jack watches skeptically.",
+    "web_asset_path": "assets/b01-ch01-sc01.webp",
+    "status": "integrated",
+    "grid_id": "b01-ch01",
+    "quadrant": 1,
+    "source_paragraph_ids": [
+      "b01-ch01-p003"
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "cf13b60873c381fb0a38591f780896fd2454c58b9145081926e6beac366e6bae"
+  },
+  {
+    "id": "b01-ch01-sc02",
+    "chapter_id": "b01-ch01",
+    "insert_after_paragraph_id": "b01-ch01-p023",
+    "description": "Annie and Jack discover the high oak tree house and its hanging rope ladder.",
+    "web_asset_path": "assets/b01-ch01-sc02.webp",
+    "status": "integrated",
+    "grid_id": "b01-ch01",
+    "quadrant": 2,
+    "source_paragraph_ids": [
+      "b01-ch01-p023"
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "cf13b60873c381fb0a38591f780896fd2454c58b9145081926e6beac366e6bae"
+  },
+  {
+    "id": "b01-ch01-sc03",
+    "chapter_id": "b01-ch01",
+    "insert_after_paragraph_id": "b01-ch01-p030",
+    "description": "Annie climbs the rope ladder while Jack waits anxiously below.",
+    "web_asset_path": "assets/b01-ch01-sc03.webp",
+    "status": "integrated",
+    "grid_id": "b01-ch01",
+    "quadrant": 3,
+    "source_paragraph_ids": [
+      "b01-ch01-p030"
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "cf13b60873c381fb0a38591f780896fd2454c58b9145081926e6beac366e6bae"
+  },
+  {
+    "id": "b01-ch01-sc04",
+    "chapter_id": "b01-ch01",
+    "insert_after_paragraph_id": "b01-ch01-p039",
+    "description": "Annie peers from the tree house window as Jack starts climbing the ladder.",
+    "web_asset_path": "assets/b01-ch01-sc04.webp",
+    "status": "integrated",
+    "grid_id": "b01-ch01",
+    "quadrant": 4,
+    "source_paragraph_ids": [
+      "b01-ch01-p039"
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "cf13b60873c381fb0a38591f780896fd2454c58b9145081926e6beac366e6bae"
+  },
+  {
+    "id": "b01-ch02-sc01",
+    "chapter_id": "b01-ch02",
+    "insert_after_paragraph_id": "b01-ch02-p002",
+    "description": "Jack enters the tree house filled with old and new books.",
+    "web_asset_path": "assets/b01-ch02-sc01.webp",
+    "status": "planned",
+    "grid_id": "b01-ch02",
+    "quadrant": 1,
+    "source_paragraph_ids": [
+      "b01-ch02-p002"
+    ]
+  },
+  {
+    "id": "b01-ch02-sc02",
+    "chapter_id": "b01-ch02",
+    "insert_after_paragraph_id": "b01-ch02-p006",
+    "description": "The children look out over Frog Creek and their white house with its green porch.",
+    "web_asset_path": "assets/b01-ch02-sc02.webp",
+    "status": "planned",
+    "grid_id": "b01-ch02",
+    "quadrant": 2,
+    "source_paragraph_ids": [
+      "b01-ch02-p006"
+    ]
+  },
+  {
+    "id": "b01-ch02-sc03",
+    "chapter_id": "b01-ch02",
+    "insert_after_paragraph_id": "b01-ch02-p020",
+    "description": "Jack points to the Pteranodon illustration in the dinosaur book and makes a wish.",
+    "web_asset_path": "assets/b01-ch02-sc03.webp",
+    "status": "planned",
+    "grid_id": "b01-ch02",
+    "quadrant": 3,
+    "source_paragraph_ids": [
+      "b01-ch02-p020"
+    ]
+  },
+  {
+    "id": "b01-ch02-sc04",
+    "chapter_id": "b01-ch02",
+    "insert_after_paragraph_id": "b01-ch02-p032",
+    "description": "A huge crested Pteranodon flies past the window as the children crouch inside the spinning tree house.",
+    "web_asset_path": "assets/b01-ch02-sc04.webp",
+    "status": "planned",
+    "grid_id": "b01-ch02",
+    "quadrant": 4,
+    "source_paragraph_ids": [
+      "b01-ch02-p032"
+    ]
+  },
+  {
+    "id": "b01-ch03-sc01",
+    "chapter_id": "b01-ch03",
+    "insert_after_paragraph_id": "b01-ch03-p004",
+    "description": "The children gaze from the tree house over prehistoric ferns, a winding stream and distant volcanoes.",
+    "web_asset_path": "assets/b01-ch03-sc01.webp",
+    "status": "planned",
+    "grid_id": "b01-ch03",
+    "quadrant": 1,
+    "source_paragraph_ids": [
+      "b01-ch03-p004"
+    ]
+  },
+  {
+    "id": "b01-ch03-sc02",
+    "chapter_id": "b01-ch03",
+    "insert_after_paragraph_id": "b01-ch03-p018",
+    "description": "The long-crested Pteranodon waits at the foot of the tree with spread wings.",
+    "web_asset_path": "assets/b01-ch03-sc02.webp",
+    "status": "planned",
+    "grid_id": "b01-ch03",
+    "quadrant": 2,
+    "source_paragraph_ids": [
+      "b01-ch03-p018"
+    ]
+  },
+  {
+    "id": "b01-ch03-sc03",
+    "chapter_id": "b01-ch03",
+    "insert_after_paragraph_id": "b01-ch03-p029",
+    "description": "Jack consults the dinosaur book while Annie watches the living Pteranodon.",
+    "web_asset_path": "assets/b01-ch03-sc03.webp",
+    "status": "planned",
+    "grid_id": "b01-ch03",
+    "quadrant": 3,
+    "source_paragraph_ids": [
+      "b01-ch03-p029"
+    ]
+  },
+  {
+    "id": "b01-ch03-sc04",
+    "chapter_id": "b01-ch03",
+    "insert_after_paragraph_id": "b01-ch03-p038",
+    "description": "Annie steps off the rope ladder toward the Pteranodon; Jack remains at the window.",
+    "web_asset_path": "assets/b01-ch03-sc04.webp",
+    "status": "planned",
+    "grid_id": "b01-ch03",
+    "quadrant": 4,
+    "source_paragraph_ids": [
+      "b01-ch03-p038"
+    ]
+  },
+  {
+    "id": "b01-ch04-sc01",
+    "chapter_id": "b01-ch04",
+    "insert_after_paragraph_id": "b01-ch04-p004",
+    "description": "Annie gently strokes the Pteranodon's neck while Jack watches nervously.",
+    "web_asset_path": "assets/b01-ch04-sc01.webp",
+    "status": "planned",
+    "grid_id": "b01-ch04",
+    "quadrant": 1,
+    "source_paragraph_ids": [
+      "b01-ch04-p004"
+    ]
+  },
+  {
+    "id": "b01-ch04-sc02",
+    "chapter_id": "b01-ch04",
+    "insert_after_paragraph_id": "b01-ch04-p014",
+    "description": "Jack cautiously feels the thin fuzz on the Pteranodon's neck.",
+    "web_asset_path": "assets/b01-ch04-sc02.webp",
+    "status": "planned",
+    "grid_id": "b01-ch04",
+    "quadrant": 2,
+    "source_paragraph_ids": [
+      "b01-ch04-p014"
+    ]
+  },
+  {
+    "id": "b01-ch04-sc03",
+    "chapter_id": "b01-ch04",
+    "insert_after_paragraph_id": "b01-ch04-p025",
+    "description": "Jack takes notes in his notebook while Annie affectionately watches Henry the Pteranodon.",
+    "web_asset_path": "assets/b01-ch04-sc03.webp",
+    "status": "planned",
+    "grid_id": "b01-ch04",
+    "quadrant": 3,
+    "source_paragraph_ids": [
+      "b01-ch04-p025"
+    ]
+  },
+  {
+    "id": "b01-ch04-sc04",
+    "chapter_id": "b01-ch04",
+    "insert_after_paragraph_id": "b01-ch04-p037",
+    "description": "Annie points toward a large three-horned Triceratops appearing on the distant hill.",
+    "web_asset_path": "assets/b01-ch04-sc04.webp",
+    "status": "planned",
+    "grid_id": "b01-ch04",
+    "quadrant": 4,
+    "source_paragraph_ids": [
+      "b01-ch04-p037"
+    ]
+  },
+  {
+    "id": "b01-ch05-sc01",
+    "chapter_id": "b01-ch05",
+    "insert_after_paragraph_id": "b01-ch05-p008",
+    "description": "From the tree house the siblings observe a three-horned Triceratops eating magnolia flowers.",
+    "web_asset_path": "assets/b01-ch05-sc01.webp",
+    "status": "planned",
+    "grid_id": "b01-ch05",
+    "quadrant": 1,
+    "source_paragraph_ids": [
+      "b01-ch05-p008"
+    ]
+  },
+  {
+    "id": "b01-ch05-sc02",
+    "chapter_id": "b01-ch05",
+    "insert_after_paragraph_id": "b01-ch05-p035",
+    "description": "Jack and Annie crouch behind a bush; Jack writes notes about the grazing Triceratops.",
+    "web_asset_path": "assets/b01-ch05-sc02.webp",
+    "status": "planned",
+    "grid_id": "b01-ch05",
+    "quadrant": 2,
+    "source_paragraph_ids": [
+      "b01-ch05-p035"
+    ]
+  },
+  {
+    "id": "b01-ch05-sc03",
+    "chapter_id": "b01-ch05",
+    "insert_after_paragraph_id": "b01-ch05-p044",
+    "description": "Annie has tumbled into the grass and the calm Triceratops looks at her with a magnolia flower in its mouth.",
+    "web_asset_path": "assets/b01-ch05-sc03.webp",
+    "status": "planned",
+    "grid_id": "b01-ch05",
+    "quadrant": 3,
+    "source_paragraph_ids": [
+      "b01-ch05-p044"
+    ]
+  },
+  {
+    "id": "b01-ch05-sc04",
+    "chapter_id": "b01-ch05",
+    "insert_after_paragraph_id": "b01-ch05-p055",
+    "description": "Jack discovers a small round gold medallion in the tall grass; do not render its engraving as readable text.",
+    "web_asset_path": "assets/b01-ch05-sc04.webp",
+    "status": "planned",
+    "grid_id": "b01-ch05",
+    "quadrant": 4,
+    "source_paragraph_ids": [
+      "b01-ch05-p055"
+    ]
+  },
+  {
+    "id": "b01-ch06-sc01",
+    "chapter_id": "b01-ch06",
+    "insert_after_paragraph_id": "b01-ch06-p014",
+    "description": "A valley full of mud nests and baby duck-billed dinosaurs; Annie is beside one nest and a protective Anatosaurus towers above her.",
+    "web_asset_path": "assets/b01-ch06-sc01.webp",
+    "status": "planned",
+    "grid_id": "b01-ch06",
+    "quadrant": 1,
+    "source_paragraph_ids": [
+      "b01-ch06-p014"
+    ]
+  },
+  {
+    "id": "b01-ch06-sc02",
+    "chapter_id": "b01-ch06",
+    "insert_after_paragraph_id": "b01-ch06-p032",
+    "description": "Jack and Annie crouch with bowed heads pretending to chew; the mother duck-billed dinosaur calms down.",
+    "web_asset_path": "assets/b01-ch06-sc02.webp",
+    "status": "planned",
+    "grid_id": "b01-ch06",
+    "quadrant": 2,
+    "source_paragraph_ids": [
+      "b01-ch06-p032"
+    ]
+  },
+  {
+    "id": "b01-ch06-sc03",
+    "chapter_id": "b01-ch06",
+    "insert_after_paragraph_id": "b01-ch06-p055",
+    "description": "Annie feeds magnolia flowers to the gentle duck-billed dinosaur on the hilltop.",
+    "web_asset_path": "assets/b01-ch06-sc03.webp",
+    "status": "planned",
+    "grid_id": "b01-ch06",
+    "quadrant": 3,
+    "source_paragraph_ids": [
+      "b01-ch06-p055"
+    ]
+  },
+  {
+    "id": "b01-ch06-sc04",
+    "chapter_id": "b01-ch06",
+    "insert_after_paragraph_id": "b01-ch06-p066",
+    "description": "A huge Tyrannosaurus rex with two tiny arms, powerful hind legs and long tail approaches across the distant plain; the children are alarmed.",
+    "web_asset_path": "assets/b01-ch06-sc04.webp",
+    "status": "planned",
+    "grid_id": "b01-ch06",
+    "quadrant": 4,
+    "source_paragraph_ids": [
+      "b01-ch06-p066"
+    ]
+  },
+  {
+    "id": "b01-ch07-sc01",
+    "chapter_id": "b01-ch07",
+    "insert_after_paragraph_id": "b01-ch07-p003",
+    "description": "The children flee up the rope ladder and into the tree house, leaving Jack's green pack on the hill.",
+    "web_asset_path": "assets/b01-ch07-sc01.webp",
+    "status": "planned",
+    "grid_id": "b01-ch07",
+    "quadrant": 1,
+    "source_paragraph_ids": [
+      "b01-ch07-p003"
+    ]
+  },
+  {
+    "id": "b01-ch07-sc02",
+    "chapter_id": "b01-ch07",
+    "insert_after_paragraph_id": "b01-ch07-p017",
+    "description": "Inside the tree house, Jack makes an unsuccessful wish and realizes his pack and dinosaur book are missing.",
+    "web_asset_path": "assets/b01-ch07-sc02.webp",
+    "status": "planned",
+    "grid_id": "b01-ch07",
+    "quadrant": 2,
+    "source_paragraph_ids": [
+      "b01-ch07-p017"
+    ]
+  },
+  {
+    "id": "b01-ch07-sc03",
+    "chapter_id": "b01-ch07",
+    "insert_after_paragraph_id": "b01-ch07-p031",
+    "description": "Jack alone retrieves his green backpack and dinosaur book near the guarded duck-billed dinosaur nests.",
+    "web_asset_path": "assets/b01-ch07-sc03.webp",
+    "status": "planned",
+    "grid_id": "b01-ch07",
+    "quadrant": 3,
+    "source_paragraph_ids": [
+      "b01-ch07-p031"
+    ]
+  },
+  {
+    "id": "b01-ch07-sc04",
+    "chapter_id": "b01-ch07",
+    "insert_after_paragraph_id": "b01-ch07-p037",
+    "description": "Jack stops on the hill with his recovered pack; the Tyrannosaurus blocks the route to the distant tree house.",
+    "web_asset_path": "assets/b01-ch07-sc04.webp",
+    "status": "planned",
+    "grid_id": "b01-ch07",
+    "quadrant": 4,
+    "source_paragraph_ids": [
+      "b01-ch07-p037"
+    ]
+  },
+  {
+    "id": "b01-ch08-sc01",
+    "chapter_id": "b01-ch08",
+    "insert_after_paragraph_id": "b01-ch08-p001",
+    "description": "Jack hides behind a magnolia tree, green backpack with him, while a Tyrannosaurus prowls below.",
+    "web_asset_path": "assets/b01-ch08-sc01.webp",
+    "status": "planned",
+    "grid_id": "b01-ch08",
+    "quadrant": 1,
+    "source_paragraph_ids": [
+      "b01-ch08-p001"
+    ]
+  },
+  {
+    "id": "b01-ch08-sc02",
+    "chapter_id": "b01-ch08",
+    "insert_after_paragraph_id": "b01-ch08-p012",
+    "description": "Jack anxiously reads his dinosaur book behind the tree.",
+    "web_asset_path": "assets/b01-ch08-sc02.webp",
+    "status": "planned",
+    "grid_id": "b01-ch08",
+    "quadrant": 2,
+    "source_paragraph_ids": [
+      "b01-ch08-p012"
+    ]
+  },
+  {
+    "id": "b01-ch08-sc03",
+    "chapter_id": "b01-ch08",
+    "insert_after_paragraph_id": "b01-ch08-p021",
+    "description": "Annie at the tree house base gestures with her arms to Henry the Pteranodon, pointing to Jack and the sky.",
+    "web_asset_path": "assets/b01-ch08-sc03.webp",
+    "status": "planned",
+    "grid_id": "b01-ch08",
+    "quadrant": 3,
+    "source_paragraph_ids": [
+      "b01-ch08-p021"
+    ]
+  },
+  {
+    "id": "b01-ch08-sc04",
+    "chapter_id": "b01-ch08",
+    "insert_after_paragraph_id": "b01-ch08-p031",
+    "description": "A broad Pteranodon shadow passes over Jack as Henry glides toward the hill to rescue him.",
+    "web_asset_path": "assets/b01-ch08-sc04.webp",
+    "status": "planned",
+    "grid_id": "b01-ch08",
+    "quadrant": 4,
+    "source_paragraph_ids": [
+      "b01-ch08-p031"
+    ]
+  },
+  {
+    "id": "b01-ch09-sc01",
+    "chapter_id": "b01-ch09",
+    "insert_after_paragraph_id": "b01-ch09-p007",
+    "description": "Jack with green backpack climbs onto Henry the Pteranodon; they take flight ahead of the approaching Tyrannosaurus.",
+    "web_asset_path": "assets/b01-ch09-sc01.webp",
+    "status": "planned",
+    "grid_id": "b01-ch09",
+    "quadrant": 1,
+    "source_paragraph_ids": [
+      "b01-ch09-p007"
+    ]
+  },
+  {
+    "id": "b01-ch09-sc02",
+    "chapter_id": "b01-ch09",
+    "insert_after_paragraph_id": "b01-ch09-p015",
+    "description": "Jack joyfully rides the warm brown Pteranodon over prehistoric valley, nests, stream and ferns.",
+    "web_asset_path": "assets/b01-ch09-sc02.webp",
+    "status": "planned",
+    "grid_id": "b01-ch09",
+    "quadrant": 2,
+    "source_paragraph_ids": [
+      "b01-ch09-p015"
+    ]
+  },
+  {
+    "id": "b01-ch09-sc03",
+    "chapter_id": "b01-ch09",
+    "insert_after_paragraph_id": "b01-ch09-p029",
+    "description": "Jack races up the tree house rope ladder while Annie urges him from above and the Tyrannosaurus approaches.",
+    "web_asset_path": "assets/b01-ch09-sc03.webp",
+    "status": "planned",
+    "grid_id": "b01-ch09",
+    "quadrant": 3,
+    "source_paragraph_ids": [
+      "b01-ch09-p029"
+    ]
+  },
+  {
+    "id": "b01-ch09-sc04",
+    "chapter_id": "b01-ch09",
+    "insert_after_paragraph_id": "b01-ch09-p043",
+    "description": "Jack points to the Pennsylvania book then hugs Annie as the tree house spins home; dinosaur remains outside.",
+    "web_asset_path": "assets/b01-ch09-sc04.webp",
+    "status": "planned",
+    "grid_id": "b01-ch09",
+    "quadrant": 4,
+    "source_paragraph_ids": [
+      "b01-ch09-p043"
+    ]
+  },
+  {
+    "id": "b01-ch10-sc01",
+    "chapter_id": "b01-ch10",
+    "insert_after_paragraph_id": "b01-ch10-p006",
+    "description": "The children gaze from the window at familiar Frog Creek woods in golden late-afternoon light.",
+    "web_asset_path": "assets/b01-ch10-sc01.webp",
+    "status": "planned",
+    "grid_id": "b01-ch10",
+    "quadrant": 1,
+    "source_paragraph_ids": [
+      "b01-ch10-p006"
+    ]
+  },
+  {
+    "id": "b01-ch10-sc02",
+    "chapter_id": "b01-ch10",
+    "insert_after_paragraph_id": "b01-ch10-p022",
+    "description": "Inside the tree house Jack shows Annie the round gold medallion, no readable engraving.",
+    "web_asset_path": "assets/b01-ch10-sc02.webp",
+    "status": "planned",
+    "grid_id": "b01-ch10",
+    "quadrant": 2,
+    "source_paragraph_ids": [
+      "b01-ch10-p022"
+    ]
+  },
+  {
+    "id": "b01-ch10-sc03",
+    "chapter_id": "b01-ch10",
+    "insert_after_paragraph_id": "b01-ch10-p032",
+    "description": "Jack and Annie leave the rope ladder and walk through the peaceful woods toward home.",
+    "web_asset_path": "assets/b01-ch10-sc03.webp",
+    "status": "planned",
+    "grid_id": "b01-ch10",
+    "quadrant": 3,
+    "source_paragraph_ids": [
+      "b01-ch10-p032"
+    ]
+  },
+  {
+    "id": "b01-ch10-sc04",
+    "chapter_id": "b01-ch10",
+    "insert_after_paragraph_id": "b01-ch10-p058",
+    "description": "Jack and Annie happily race home along their neighborhood road at sunset.",
+    "web_asset_path": "assets/b01-ch10-sc04.webp",
+    "status": "planned",
+    "grid_id": "b01-ch10",
+    "quadrant": 4,
+    "source_paragraph_ids": [
+      "b01-ch10-p058"
+    ]
+  },
+  {
+    "id": "b02-ch01-sc01",
+    "chapter_id": "b02-ch01",
+    "insert_after_paragraph_id": "b02-ch01-p005",
+    "description": "Before dawn in his bedroom Jack in light blue pajamas and glasses studies his notebook; Annie in yellow stands at his doorway.",
+    "web_asset_path": "assets/b02-ch01-sc01.webp",
+    "status": "planned",
+    "grid_id": "b02-ch01",
+    "quadrant": 1,
+    "source_paragraph_ids": [
+      "b02-ch01-p005"
+    ]
+  },
+  {
+    "id": "b02-ch01-sc02",
+    "chapter_id": "b02-ch01",
+    "insert_after_paragraph_id": "b02-ch01-p032",
+    "description": "Now dressed in blue sweatshirt and jeans with green backpack, Jack meets Annie with her belt-clipped flashlight at the back door.",
+    "web_asset_path": "assets/b02-ch01-sc02.webp",
+    "status": "planned",
+    "grid_id": "b02-ch01",
+    "quadrant": 2,
+    "source_paragraph_ids": [
+      "b02-ch01-p032"
+    ]
+  },
+  {
+    "id": "b02-ch01-sc03",
+    "chapter_id": "b02-ch01",
+    "insert_after_paragraph_id": "b02-ch01-p046",
+    "description": "The siblings walk through dark predawn woods by Annie's flashlight.",
+    "web_asset_path": "assets/b02-ch01-sc03.webp",
+    "status": "planned",
+    "grid_id": "b02-ch01",
+    "quadrant": 3,
+    "source_paragraph_ids": [
+      "b02-ch01-p046"
+    ]
+  },
+  {
+    "id": "b02-ch01-sc04",
+    "chapter_id": "b02-ch01",
+    "insert_after_paragraph_id": "b02-ch01-p060",
+    "description": "Annie climbs the tall tree house rope ladder by flashlight while Jack waits below.",
+    "web_asset_path": "assets/b02-ch01-sc04.webp",
+    "status": "planned",
+    "grid_id": "b02-ch01",
+    "quadrant": 4,
+    "source_paragraph_ids": [
+      "b02-ch01-p060"
+    ]
+  },
+  {
+    "id": "b02-ch02-sc01",
+    "chapter_id": "b02-ch02",
+    "insert_after_paragraph_id": "b02-ch02-p006",
+    "description": "Inside the dark tree house Annie shines a flashlight on books while Jack watches.",
+    "web_asset_path": "assets/b02-ch02-sc01.webp",
+    "status": "planned",
+    "grid_id": "b02-ch02",
+    "quadrant": 1,
+    "source_paragraph_ids": [
+      "b02-ch02-p006"
+    ]
+  },
+  {
+    "id": "b02-ch02-sc02",
+    "chapter_id": "b02-ch02",
+    "insert_after_paragraph_id": "b02-ch02-p018",
+    "description": "Annie points at a picture of an armored knight riding a black horse in the castle book.",
+    "web_asset_path": "assets/b02-ch02-sc02.webp",
+    "status": "planned",
+    "grid_id": "b02-ch02",
+    "quadrant": 2,
+    "source_paragraph_ids": [
+      "b02-ch02-p018"
+    ]
+  },
+  {
+    "id": "b02-ch02-sc03",
+    "chapter_id": "b02-ch02",
+    "insert_after_paragraph_id": "b02-ch02-p034",
+    "description": "An armored knight on a black horse appears beneath the tree as wind spins the tree house.",
+    "web_asset_path": "assets/b02-ch02-sc03.webp",
+    "status": "planned",
+    "grid_id": "b02-ch02",
+    "quadrant": 3,
+    "source_paragraph_ids": [
+      "b02-ch02-p034"
+    ]
+  },
+  {
+    "id": "b02-ch02-sc04",
+    "chapter_id": "b02-ch02",
+    "insert_after_paragraph_id": "b02-ch02-p043",
+    "description": "The children see a vast medieval stone castle looming through cool fog from their tree house window.",
+    "web_asset_path": "assets/b02-ch02-sc04.webp",
+    "status": "planned",
+    "grid_id": "b02-ch02",
+    "quadrant": 4,
+    "source_paragraph_ids": [
+      "b02-ch02-p043"
+    ]
+  },
+  {
+    "id": "b02-ch03-sc01",
+    "chapter_id": "b02-ch03",
+    "insert_after_paragraph_id": "b02-ch03-p010",
+    "description": "At the tree house base Jack studies the castle book and writes notes by flashlight while Annie watches a distant knight on a black horse.",
+    "web_asset_path": "assets/b02-ch03-sc01.webp",
+    "status": "planned",
+    "grid_id": "b02-ch03",
+    "quadrant": 1,
+    "source_paragraph_ids": [
+      "b02-ch03-p010"
+    ]
+  },
+  {
+    "id": "b02-ch03-sc02",
+    "chapter_id": "b02-ch03",
+    "insert_after_paragraph_id": "b02-ch03-p013",
+    "description": "A silver-armored knight with lowered visor rides his black horse across a wooden drawbridge over the castle moat.",
+    "web_asset_path": "assets/b02-ch03-sc02.webp",
+    "status": "planned",
+    "grid_id": "b02-ch03",
+    "quadrant": 2,
+    "source_paragraph_ids": [
+      "b02-ch03-p013"
+    ]
+  },
+  {
+    "id": "b02-ch03-sc03",
+    "chapter_id": "b02-ch03",
+    "insert_after_paragraph_id": "b02-ch03-p019",
+    "description": "The children explore the misty castle grounds with a windmill and small hawk house visible.",
+    "web_asset_path": "assets/b02-ch03-sc03.webp",
+    "status": "planned",
+    "grid_id": "b02-ch03",
+    "quadrant": 3,
+    "source_paragraph_ids": [
+      "b02-ch03-p019"
+    ]
+  },
+  {
+    "id": "b02-ch03-sc04",
+    "chapter_id": "b02-ch03",
+    "insert_after_paragraph_id": "b02-ch03-p044",
+    "description": "Annie dashes across the drawbridge toward the castle gate while Jack looks up from his book.",
+    "web_asset_path": "assets/b02-ch03-sc04.webp",
+    "status": "planned",
+    "grid_id": "b02-ch03",
+    "quadrant": 4,
+    "source_paragraph_ids": [
+      "b02-ch03-p044"
+    ]
+  },
+  {
+    "id": "b02-ch04-sc01",
+    "chapter_id": "b02-ch04",
+    "insert_after_paragraph_id": "b02-ch04-p006",
+    "description": "Jack hurries across the wooden drawbridge while a medieval guard watches from the wall.",
+    "web_asset_path": "assets/b02-ch04-sc01.webp",
+    "status": "planned",
+    "grid_id": "b02-ch04",
+    "quadrant": 1,
+    "source_paragraph_ids": [
+      "b02-ch04-p006"
+    ]
+  },
+  {
+    "id": "b02-ch04-sc02",
+    "chapter_id": "b02-ch04",
+    "insert_after_paragraph_id": "b02-ch04-p017",
+    "description": "Annie waves from behind a stone well in the torchlit castle courtyard; Jack approaches.",
+    "web_asset_path": "assets/b02-ch04-sc02.webp",
+    "status": "planned",
+    "grid_id": "b02-ch04",
+    "quadrant": 2,
+    "source_paragraph_ids": [
+      "b02-ch04-p017"
+    ]
+  },
+  {
+    "id": "b02-ch04-sc03",
+    "chapter_id": "b02-ch04",
+    "insert_after_paragraph_id": "b02-ch04-p023",
+    "description": "Both children peek through a doorway into the Great Hall feast: long tables, fireplace, medieval diners, musicians and serving boys.",
+    "web_asset_path": "assets/b02-ch04-sc03.webp",
+    "status": "planned",
+    "grid_id": "b02-ch04",
+    "quadrant": 3,
+    "source_paragraph_ids": [
+      "b02-ch04-p023"
+    ]
+  },
+  {
+    "id": "b02-ch04-sc04",
+    "chapter_id": "b02-ch04",
+    "insert_after_paragraph_id": "b02-ch04-p032",
+    "description": "An angry medieval servant carrying a tray of pies catches the children peeking; they start fleeing down the dim hallway.",
+    "web_asset_path": "assets/b02-ch04-sc04.webp",
+    "status": "planned",
+    "grid_id": "b02-ch04",
+    "quadrant": 4,
+    "source_paragraph_ids": [
+      "b02-ch04-p032"
+    ]
+  },
+  {
+    "id": "b02-ch05-sc01",
+    "chapter_id": "b02-ch05",
+    "insert_after_paragraph_id": "b02-ch05-p011",
+    "description": "The flashlight reveals empty headless suits of armor in a cold castle armory; Jack and Annie look relieved.",
+    "web_asset_path": "assets/b02-ch05-sc01.webp",
+    "status": "planned",
+    "grid_id": "b02-ch05",
+    "quadrant": 1,
+    "source_paragraph_ids": [
+      "b02-ch05-p011"
+    ]
+  },
+  {
+    "id": "b02-ch05-sc02",
+    "chapter_id": "b02-ch05",
+    "insert_after_paragraph_id": "b02-ch05-p018",
+    "description": "Jack and Annie examine stored helmets, shields and medieval weapons by flashlight.",
+    "web_asset_path": "assets/b02-ch05-sc02.webp",
+    "status": "planned",
+    "grid_id": "b02-ch05",
+    "quadrant": 2,
+    "source_paragraph_ids": [
+      "b02-ch05-p018"
+    ]
+  },
+  {
+    "id": "b02-ch05-sc03",
+    "chapter_id": "b02-ch05",
+    "insert_after_paragraph_id": "b02-ch05-p025",
+    "description": "Jack bends under an oversized heavy metal helmet with visor down; Annie watches anxiously with the flashlight.",
+    "web_asset_path": "assets/b02-ch05-sc03.webp",
+    "status": "planned",
+    "grid_id": "b02-ch05",
+    "quadrant": 3,
+    "source_paragraph_ids": [
+      "b02-ch05-p025"
+    ]
+  },
+  {
+    "id": "b02-ch05-sc04",
+    "chapter_id": "b02-ch05",
+    "insert_after_paragraph_id": "b02-ch05-p036",
+    "description": "Three distinct burly guards surround Jack and Annie after removing Jack's helmet, lit by a fiery torch.",
+    "web_asset_path": "assets/b02-ch05-sc04.webp",
+    "status": "planned",
+    "grid_id": "b02-ch05",
+    "quadrant": 4,
+    "source_paragraph_ids": [
+      "b02-ch05-p036"
+    ]
+  },
+  {
+    "id": "b02-ch06-sc01",
+    "chapter_id": "b02-ch06",
+    "insert_after_paragraph_id": "b02-ch06-p001",
+    "description": "Three burly guards confront the siblings: narrowed eyes with brown tunic and torch, ruddy round face with red tunic, long dark mustache with green tunic.",
+    "web_asset_path": "assets/b02-ch06-sc01.webp",
+    "status": "planned",
+    "grid_id": "b02-ch06",
+    "quadrant": 1,
+    "source_paragraph_ids": [
+      "b02-ch06-p001"
+    ]
+  },
+  {
+    "id": "b02-ch06-sc02",
+    "chapter_id": "b02-ch06",
+    "insert_after_paragraph_id": "b02-ch06-p021",
+    "description": "The same three guards push the children into a damp stone dungeon with chains on walls and puddles; Annie holds Jack's green backpack.",
+    "web_asset_path": "assets/b02-ch06-sc02.webp",
+    "status": "planned",
+    "grid_id": "b02-ch06",
+    "quadrant": 2,
+    "source_paragraph_ids": [
+      "b02-ch06-p021"
+    ]
+  },
+  {
+    "id": "b02-ch06-sc03",
+    "chapter_id": "b02-ch06",
+    "insert_after_paragraph_id": "b02-ch06-p031",
+    "description": "Annie raises the flashlight like a magic wand; three frightened guards recoil and the torch falls into a puddle.",
+    "web_asset_path": "assets/b02-ch06-sc03.webp",
+    "status": "planned",
+    "grid_id": "b02-ch06",
+    "quadrant": 3,
+    "source_paragraph_ids": [
+      "b02-ch06-p031"
+    ]
+  },
+  {
+    "id": "b02-ch06-sc04",
+    "chapter_id": "b02-ch06",
+    "insert_after_paragraph_id": "b02-ch06-p042",
+    "description": "The three guards cower on the wet dungeon floor as Annie and Jack escape through the open door with the backpack.",
+    "web_asset_path": "assets/b02-ch06-sc04.webp",
+    "status": "planned",
+    "grid_id": "b02-ch06",
+    "quadrant": 4,
+    "source_paragraph_ids": [
+      "b02-ch06-p042"
+    ]
+  },
+  {
+    "id": "b02-ch07-sc01",
+    "chapter_id": "b02-ch07",
+    "insert_after_paragraph_id": "b02-ch07-p006",
+    "description": "The siblings hide behind a door in a storeroom full of flour sacks and wooden barrels; a guard's torchlight sweeps outside.",
+    "web_asset_path": "assets/b02-ch07-sc01.webp",
+    "status": "planned",
+    "grid_id": "b02-ch07",
+    "quadrant": 1,
+    "source_paragraph_ids": [
+      "b02-ch07-p006"
+    ]
+  },
+  {
+    "id": "b02-ch07-sc02",
+    "chapter_id": "b02-ch07",
+    "insert_after_paragraph_id": "b02-ch07-p029",
+    "description": "Jack and Annie lift a square stone and open the small wooden trapdoor beneath it.",
+    "web_asset_path": "assets/b02-ch07-sc02.webp",
+    "status": "planned",
+    "grid_id": "b02-ch07",
+    "quadrant": 2,
+    "source_paragraph_ids": [
+      "b02-ch07-p029"
+    ]
+  },
+  {
+    "id": "b02-ch07-sc03",
+    "chapter_id": "b02-ch07",
+    "insert_after_paragraph_id": "b02-ch07-p035",
+    "description": "Jack and Annie crouch through a narrow stone tunnel by a dimming flashlight.",
+    "web_asset_path": "assets/b02-ch07-sc03.webp",
+    "status": "planned",
+    "grid_id": "b02-ch07",
+    "quadrant": 3,
+    "source_paragraph_ids": [
+      "b02-ch07-p035"
+    ]
+  },
+  {
+    "id": "b02-ch07-sc04",
+    "chapter_id": "b02-ch07",
+    "insert_after_paragraph_id": "b02-ch07-p055",
+    "description": "Jack loses his grip at the tunnel's exit above the moat and falls toward the dark water; Annie reaches from the opening, child friendly no injury.",
+    "web_asset_path": "assets/b02-ch07-sc04.webp",
+    "status": "planned",
+    "grid_id": "b02-ch07",
+    "quadrant": 4,
+    "source_paragraph_ids": [
+      "b02-ch07-p055"
+    ]
+  },
+  {
+    "id": "b02-ch08-sc01",
+    "chapter_id": "b02-ch08",
+    "insert_after_paragraph_id": "b02-ch08-p003",
+    "description": "Jack with wet blue sweatshirt, jeans and green backpack struggles in dark moat water, putting his round glasses back on.",
+    "web_asset_path": "assets/b02-ch08-sc01.webp",
+    "status": "planned",
+    "grid_id": "b02-ch08",
+    "quadrant": 1,
+    "source_paragraph_ids": [
+      "b02-ch08-p003"
+    ]
+  },
+  {
+    "id": "b02-ch08-sc02",
+    "chapter_id": "b02-ch08",
+    "insert_after_paragraph_id": "b02-ch08-p024",
+    "description": "Wet Annie reaches from the moat bank and helps wet Jack climb onto the grass; no crocodile visible.",
+    "web_asset_path": "assets/b02-ch08-sc02.webp",
+    "status": "planned",
+    "grid_id": "b02-ch08",
+    "quadrant": 2,
+    "source_paragraph_ids": [
+      "b02-ch08-p024"
+    ]
+  },
+  {
+    "id": "b02-ch08-sc03",
+    "chapter_id": "b02-ch08",
+    "insert_after_paragraph_id": "b02-ch08-p034",
+    "description": "Both wet children shiver in thick fog; Jack's soaked flashlight no longer works.",
+    "web_asset_path": "assets/b02-ch08-sc03.webp",
+    "status": "planned",
+    "grid_id": "b02-ch08",
+    "quadrant": 3,
+    "source_paragraph_ids": [
+      "b02-ch08-p034"
+    ]
+  },
+  {
+    "id": "b02-ch08-sc04",
+    "chapter_id": "b02-ch08",
+    "insert_after_paragraph_id": "b02-ch08-p040",
+    "description": "Clouds part and moonlight reveals a silent silver-armored knight with lowered visor on a black horse near the shivering children.",
+    "web_asset_path": "assets/b02-ch08-sc04.webp",
+    "status": "planned",
+    "grid_id": "b02-ch08",
+    "quadrant": 4,
+    "source_paragraph_ids": [
+      "b02-ch08-p040"
+    ]
+  },
+  {
+    "id": "b02-ch09-sc01",
+    "chapter_id": "b02-ch09",
+    "insert_after_paragraph_id": "b02-ch09-p013",
+    "description": "The silent armored knight helps wet Jack onto a black horse behind wet Annie.",
+    "web_asset_path": "assets/b02-ch09-sc01.webp",
+    "status": "planned",
+    "grid_id": "b02-ch09",
+    "quadrant": 1,
+    "source_paragraph_ids": [
+      "b02-ch09-p013"
+    ]
+  },
+  {
+    "id": "b02-ch09-sc02",
+    "chapter_id": "b02-ch09",
+    "insert_after_paragraph_id": "b02-ch09-p015",
+    "description": "A black horse carries exactly three riders beside the moonlit moat: Annie in front, Jack behind her, full-sized armored knight behind Jack.",
+    "web_asset_path": "assets/b02-ch09-sc02.webp",
+    "status": "planned",
+    "grid_id": "b02-ch09",
+    "quadrant": 2,
+    "source_paragraph_ids": [
+      "b02-ch09-p015"
+    ]
+  },
+  {
+    "id": "b02-ch09-sc03",
+    "chapter_id": "b02-ch09",
+    "insert_after_paragraph_id": "b02-ch09-p024",
+    "description": "Jack and Annie bow thanks at the tree house ladder as the knight remounts his black horse.",
+    "web_asset_path": "assets/b02-ch09-sc03.webp",
+    "status": "planned",
+    "grid_id": "b02-ch09",
+    "quadrant": 3,
+    "source_paragraph_ids": [
+      "b02-ch09-p024"
+    ]
+  },
+  {
+    "id": "b02-ch09-sc04",
+    "chapter_id": "b02-ch09",
+    "insert_after_paragraph_id": "b02-ch09-p044",
+    "description": "Inside the tree house wet Annie points at the Pennsylvania book while wet Jack looks alarmed; the tree house spins through the night.",
+    "web_asset_path": "assets/b02-ch09-sc04.webp",
+    "status": "planned",
+    "grid_id": "b02-ch09",
+    "quadrant": 4,
+    "source_paragraph_ids": [
+      "b02-ch09-p044"
+    ]
+  },
+  {
+    "id": "b02-ch10-sc01",
+    "chapter_id": "b02-ch10",
+    "insert_after_paragraph_id": "b02-ch10-p002",
+    "description": "The children see familiar Frog Creek at dawn from the tree house; their clothes are still damp.",
+    "web_asset_path": "assets/b02-ch10-sc01.webp",
+    "status": "planned",
+    "grid_id": "b02-ch10",
+    "quadrant": 1,
+    "source_paragraph_ids": [
+      "b02-ch10-p002"
+    ]
+  },
+  {
+    "id": "b02-ch10-sc02",
+    "chapter_id": "b02-ch10",
+    "insert_after_paragraph_id": "b02-ch10-p014",
+    "description": "Jack and Annie sneak through their back door and up the stairs in the early morning.",
+    "web_asset_path": "assets/b02-ch10-sc02.webp",
+    "status": "planned",
+    "grid_id": "b02-ch10",
+    "quadrant": 2,
+    "source_paragraph_ids": [
+      "b02-ch10-p014"
+    ]
+  },
+  {
+    "id": "b02-ch10-sc03",
+    "chapter_id": "b02-ch10",
+    "insert_after_paragraph_id": "b02-ch10-p026",
+    "description": "Now in dry light blue pajamas and glasses, Jack compares a blue leather bookmark with a gold medallion by his bedroom lamp; no readable lettering.",
+    "web_asset_path": "assets/b02-ch10-sc03.webp",
+    "status": "planned",
+    "grid_id": "b02-ch10",
+    "quadrant": 3,
+    "source_paragraph_ids": [
+      "b02-ch10-p026"
+    ]
+  },
+  {
+    "id": "b02-ch10-sc04",
+    "chapter_id": "b02-ch10",
+    "insert_after_paragraph_id": "b02-ch10-p034",
+    "description": "Jack falls asleep on his bed with notebook and pencil nearby, wearing light blue pajamas; soft peaceful dawn light.",
+    "web_asset_path": "assets/b02-ch10-sc04.webp",
+    "status": "planned",
+    "grid_id": "b02-ch10",
+    "quadrant": 4,
+    "source_paragraph_ids": [
+      "b02-ch10-p034"
+    ]
+  }
+]
