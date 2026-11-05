@@ -69,12 +69,15 @@
     "insert_after_paragraph_id": "b02-ch02-p006",
     "description": "Inside the dark tree house Annie shines a flashlight on books while Jack watches.",
     "web_asset_path": "assets/b02-ch02-sc01.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch02",
     "quadrant": 1,
     "source_paragraph_ids": [
       "b02-ch02-p006"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "8784eb711bd8a2846b84ede568cc503cff202d1d9e7565a124140a2bf02fd4e9"
   },
   {
     "id": "b02-ch02-sc02",
@@ -82,12 +85,15 @@
     "insert_after_paragraph_id": "b02-ch02-p018",
     "description": "Annie points at a picture of an armored knight riding a black horse in the castle book.",
     "web_asset_path": "assets/b02-ch02-sc02.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch02",
     "quadrant": 2,
     "source_paragraph_ids": [
       "b02-ch02-p018"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "8784eb711bd8a2846b84ede568cc503cff202d1d9e7565a124140a2bf02fd4e9"
   },
   {
     "id": "b02-ch02-sc03",
@@ -95,12 +101,15 @@
     "insert_after_paragraph_id": "b02-ch02-p034",
     "description": "An armored knight on a black horse appears beneath the tree as wind spins the tree house.",
     "web_asset_path": "assets/b02-ch02-sc03.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch02",
     "quadrant": 3,
     "source_paragraph_ids": [
       "b02-ch02-p034"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "8784eb711bd8a2846b84ede568cc503cff202d1d9e7565a124140a2bf02fd4e9"
   },
   {
     "id": "b02-ch02-sc04",
@@ -108,12 +117,15 @@
     "insert_after_paragraph_id": "b02-ch02-p043",
     "description": "The children see a vast medieval stone castle looming through cool fog from their tree house window.",
     "web_asset_path": "assets/b02-ch02-sc04.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch02",
     "quadrant": 4,
     "source_paragraph_ids": [
       "b02-ch02-p043"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "8784eb711bd8a2846b84ede568cc503cff202d1d9e7565a124140a2bf02fd4e9"
   },
   {
     "id": "b02-ch03-sc01",
