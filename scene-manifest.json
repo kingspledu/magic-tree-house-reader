@@ -517,12 +517,15 @@
     "insert_after_paragraph_id": "b02-ch09-p013",
     "description": "The silent armored knight helps wet Jack onto a black horse behind wet Annie.",
     "web_asset_path": "assets/b02-ch09-sc01.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch09",
     "quadrant": 1,
     "source_paragraph_ids": [
       "b02-ch09-p013"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "082502f1c973247161359f7be5098f065421cf03f9d0bcc855b35bd2f429eaf2"
   },
   {
     "id": "b02-ch09-sc02",
@@ -530,12 +533,15 @@
     "insert_after_paragraph_id": "b02-ch09-p015",
     "description": "A black horse carries exactly three riders beside the moonlit moat: Annie in front, Jack behind her, full-sized armored knight behind Jack.",
     "web_asset_path": "assets/b02-ch09-sc02.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch09",
     "quadrant": 2,
     "source_paragraph_ids": [
       "b02-ch09-p015"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "082502f1c973247161359f7be5098f065421cf03f9d0bcc855b35bd2f429eaf2"
   },
   {
     "id": "b02-ch09-sc03",
@@ -543,12 +549,15 @@
     "insert_after_paragraph_id": "b02-ch09-p024",
     "description": "Jack and Annie bow thanks at the tree house ladder as the knight remounts his black horse.",
     "web_asset_path": "assets/b02-ch09-sc03.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch09",
     "quadrant": 3,
     "source_paragraph_ids": [
       "b02-ch09-p024"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "082502f1c973247161359f7be5098f065421cf03f9d0bcc855b35bd2f429eaf2"
   },
   {
     "id": "b02-ch09-sc04",
@@ -556,12 +565,15 @@
     "insert_after_paragraph_id": "b02-ch09-p044",
     "description": "Inside the tree house wet Annie points at the Pennsylvania book while wet Jack looks alarmed; the tree house spins through the night.",
     "web_asset_path": "assets/b02-ch09-sc04.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch09",
     "quadrant": 4,
     "source_paragraph_ids": [
       "b02-ch09-p044"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "082502f1c973247161359f7be5098f065421cf03f9d0bcc855b35bd2f429eaf2"
   },
   {
     "id": "b02-ch10-sc01",
