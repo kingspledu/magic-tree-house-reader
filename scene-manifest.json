@@ -389,12 +389,15 @@
     "insert_after_paragraph_id": "b02-ch07-p006",
     "description": "The siblings hide behind a door in a storeroom full of flour sacks and wooden barrels; a guard's torchlight sweeps outside.",
     "web_asset_path": "assets/b02-ch07-sc01.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch07",
     "quadrant": 1,
     "source_paragraph_ids": [
       "b02-ch07-p006"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "d8642c5b8d1ab7fd40f796a52b99343b6339afdc06cae1325bcf5b44f0b615a1"
   },
   {
     "id": "b02-ch07-sc02",
@@ -402,12 +405,15 @@
     "insert_after_paragraph_id": "b02-ch07-p029",
     "description": "Jack and Annie lift a square stone and open the small wooden trapdoor beneath it.",
     "web_asset_path": "assets/b02-ch07-sc02.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch07",
     "quadrant": 2,
     "source_paragraph_ids": [
       "b02-ch07-p029"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "d8642c5b8d1ab7fd40f796a52b99343b6339afdc06cae1325bcf5b44f0b615a1"
   },
   {
     "id": "b02-ch07-sc03",
@@ -415,12 +421,15 @@
     "insert_after_paragraph_id": "b02-ch07-p035",
     "description": "Jack and Annie crouch through a narrow stone tunnel by a dimming flashlight.",
     "web_asset_path": "assets/b02-ch07-sc03.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch07",
     "quadrant": 3,
     "source_paragraph_ids": [
       "b02-ch07-p035"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "d8642c5b8d1ab7fd40f796a52b99343b6339afdc06cae1325bcf5b44f0b615a1"
   },
   {
     "id": "b02-ch07-sc04",
@@ -428,12 +437,15 @@
     "insert_after_paragraph_id": "b02-ch07-p055",
     "description": "Jack loses his grip at the tunnel's exit above the moat and falls toward the dark water; Annie reaches from the opening, child friendly no injury.",
     "web_asset_path": "assets/b02-ch07-sc04.webp",
-    "status": "planned",
+    "status": "integrated",
     "grid_id": "b02-ch07",
     "quadrant": 4,
     "source_paragraph_ids": [
       "b02-ch07-p055"
-    ]
+    ],
+    "width": 619,
+    "height": 619,
+    "grid_sha256": "d8642c5b8d1ab7fd40f796a52b99343b6339afdc06cae1325bcf5b44f0b615a1"
   },
   {
     "id": "b02-ch08-sc01",
